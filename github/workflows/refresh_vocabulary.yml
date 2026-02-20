@@ -2,7 +2,7 @@ name: Refresh Vocabulary
 
 on:
   schedule:
-    - cron: '0 0 1 * *'  # Monthly on the 1st
+    - cron: '0 0 1 * *'  # Monthly on the 1st 
   workflow_dispatch:       # Manual trigger from GitHub UI
 
 jobs:
