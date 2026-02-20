@@ -66,7 +66,7 @@ SUBFIELD_PRESETS = {
 }
 
 BASE_URL = "https://api.openalex.org/topics"
-EMAIL = "your@email.com"  # Polite pool: include your email for faster rate limits
+EMAIL = "lee.fischman@gmail.com"  # Polite pool: include your email for faster rate limits
 
 
 def fetch_topics_for_subfield(subfield_id: int, subfield_name: str, email: str) -> list[dict]:
