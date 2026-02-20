@@ -1,0 +1,5 @@
+requests
+torch
+transformers
+tqdm
+numpy
