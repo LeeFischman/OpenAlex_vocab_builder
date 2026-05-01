@@ -33,7 +33,7 @@
         "Geochemical Anomalies",
         "Lithological Mapping"
       ],
-      "works_count": 3955658
+      "works_count": 3955904
     },
     {
       "topic_id": "https://openalex.org/T13650",
@@ -53,7 +53,7 @@
         "Oceanography",
         "HF Radio Networking"
       ],
-      "works_count": 412293
+      "works_count": 412778
     },
     {
       "topic_id": "https://openalex.org/T10181",
@@ -73,7 +73,7 @@
         "Lexical Database",
         "Language Modeling"
       ],
-      "works_count": 292935
+      "works_count": 295026
     },
     {
       "topic_id": "https://openalex.org/T14335",
@@ -93,7 +93,7 @@
         "Self-directed Learning",
         "Robot Competition"
       ],
-      "works_count": 260526
+      "works_count": 274336
     },
     {
       "topic_id": "https://openalex.org/T10320",
@@ -113,7 +113,7 @@
         "Pattern Classification",
         "Function Approximation"
       ],
-      "works_count": 250396
+      "works_count": 251395
     },
     {
       "topic_id": "https://openalex.org/T13398",
@@ -133,7 +133,7 @@
         "statistical modeling",
         "big data"
       ],
-      "works_count": 247972
+      "works_count": 249817
     },
     {
       "topic_id": "https://openalex.org/T14339",
@@ -153,7 +153,7 @@
         "Document Reconstruction",
         "Computerized Classification"
       ],
-      "works_count": 237239
+      "works_count": 237495
     },
     {
       "topic_id": "https://openalex.org/T13807",
@@ -173,7 +173,7 @@
         "Web Technologies",
         "Cultural Heritage"
       ],
-      "works_count": 228789
+      "works_count": 229953
     },
     {
       "topic_id": "https://openalex.org/T10054",
@@ -193,7 +193,7 @@
         "Heterogeneous Computing",
         "High-Performance Computing"
       ],
-      "works_count": 197813
+      "works_count": 200012
     },
     {
       "topic_id": "https://openalex.org/T10715",
@@ -213,7 +213,7 @@
         "High-Performance Computing",
         "Virtual Organizations"
       ],
-      "works_count": 195711
+      "works_count": 196165
     },
     {
       "topic_id": "https://openalex.org/T13734",
@@ -233,27 +233,7 @@
         "Data Integration",
         "Intelligent Systems"
       ],
-      "works_count": 180000
-    },
-    {
-      "topic_id": "https://openalex.org/T10211",
-      "display_name": "Computational Drug Discovery Methods",
-      "subfield": "Computational Theory and Mathematics",
-      "subfield_id": "https://openalex.org/subfields/1703",
-      "field": "Computer Science",
-      "keywords": [
-        "Molecular Docking",
-        "Virtual Screening",
-        "Drug Target Identification",
-        "QSAR Modeling",
-        "Pharmacokinetics",
-        "Chemical Properties",
-        "Machine Learning",
-        "Polypharmacology",
-        "Network Pharmacology",
-        "Medicinal Chemistry"
-      ],
-      "works_count": 172332
+      "works_count": 180019
     },
     {
       "topic_id": "https://openalex.org/T10215",
@@ -273,27 +253,27 @@
         "Data Integration",
         "Description Logics"
       ],
-      "works_count": 171281
+      "works_count": 171698
     },
     {
-      "topic_id": "https://openalex.org/T13523",
-      "display_name": "Mathematics, Computing, and Information Processing",
+      "topic_id": "https://openalex.org/T10211",
+      "display_name": "Computational Drug Discovery Methods",
       "subfield": "Computational Theory and Mathematics",
       "subfield_id": "https://openalex.org/subfields/1703",
       "field": "Computer Science",
       "keywords": [
-        "Mathematical Information Retrieval",
-        "Math Search",
-        "Math Formulae",
-        "Semantic Representation",
-        "Digital Libraries",
-        "Math Knowledge",
-        "Mathematical Expressions",
-        "Information Retrieval System",
-        "Textual Context",
-        "Math Question Answering"
+        "Molecular Docking",
+        "Virtual Screening",
+        "Drug Target Identification",
+        "QSAR Modeling",
+        "Pharmacokinetics",
+        "Chemical Properties",
+        "Machine Learning",
+        "Polypharmacology",
+        "Network Pharmacology",
+        "Medicinal Chemistry"
       ],
-      "works_count": 164415
+      "works_count": 171650
     },
     {
       "topic_id": "https://openalex.org/T10028",
@@ -313,7 +293,27 @@
         "Topic Modeling",
         "Information Retrieval"
       ],
-      "works_count": 162935
+      "works_count": 165971
+    },
+    {
+      "topic_id": "https://openalex.org/T13523",
+      "display_name": "Mathematics, Computing, and Information Processing",
+      "subfield": "Computational Theory and Mathematics",
+      "subfield_id": "https://openalex.org/subfields/1703",
+      "field": "Computer Science",
+      "keywords": [
+        "Mathematical Information Retrieval",
+        "Math Search",
+        "Math Formulae",
+        "Semantic Representation",
+        "Digital Libraries",
+        "Math Knowledge",
+        "Mathematical Expressions",
+        "Information Retrieval System",
+        "Textual Context",
+        "Math Question Answering"
+      ],
+      "works_count": 165508
     },
     {
       "topic_id": "https://openalex.org/T13623",
@@ -333,7 +333,7 @@
         "Language Teaching",
         "Cross-linguistic Analysis"
       ],
-      "works_count": 158056
+      "works_count": 158689
     },
     {
       "topic_id": "https://openalex.org/T11349",
@@ -353,7 +353,7 @@
         "Artificial Intelligence",
         "Acoustic Ecology"
       ],
-      "works_count": 154335
+      "works_count": 155872
     },
     {
       "topic_id": "https://openalex.org/T10020",
@@ -373,7 +373,7 @@
         "Security",
         "Communication"
       ],
-      "works_count": 149681
+      "works_count": 152256
     },
     {
       "topic_id": "https://openalex.org/T10400",
@@ -393,7 +393,7 @@
         "Deep Learning",
         "Botnet Detection"
       ],
-      "works_count": 141827
+      "works_count": 143305
     },
     {
       "topic_id": "https://openalex.org/T12564",
@@ -413,7 +413,7 @@
         "Absolute Encoders",
         "Artificial Neural Networks"
       ],
-      "works_count": 131793
+      "works_count": 131892
     },
     {
       "topic_id": "https://openalex.org/T10792",
@@ -433,47 +433,7 @@
         "Structured Preconditioners",
         "Parallel Computing"
       ],
-      "works_count": 122557
-    },
-    {
-      "topic_id": "https://openalex.org/T10627",
-      "display_name": "Advanced Image and Video Retrieval Techniques",
-      "subfield": "Computer Vision and Pattern Recognition",
-      "subfield_id": "https://openalex.org/subfields/1707",
-      "field": "Computer Science",
-      "keywords": [
-        "Local Descriptors",
-        "Feature Matching",
-        "Object Recognition",
-        "Image Retrieval",
-        "Deep Learning",
-        "Binary Codes",
-        "Scene Classification",
-        "Interest Point Detectors",
-        "Bag-of-Features",
-        "Cross-Modal Retrieval"
-      ],
-      "works_count": 119080
-    },
-    {
-      "topic_id": "https://openalex.org/T10080",
-      "display_name": "Energy Efficient Wireless Sensor Networks",
-      "subfield": "Computer Networks and Communications",
-      "subfield_id": "https://openalex.org/subfields/1705",
-      "field": "Computer Science",
-      "keywords": [
-        "Wireless Sensor Networks",
-        "Energy-Efficient Protocols",
-        "Routing Techniques",
-        "Clustering Algorithms",
-        "Data Aggregation",
-        "Coverage and Connectivity",
-        "Mobile Sensor Deployment",
-        "MAC Protocols",
-        "Environmental Monitoring",
-        "Healthcare Applications"
-      ],
-      "works_count": 118222
+      "works_count": 123253
     },
     {
       "topic_id": "https://openalex.org/T10682",
@@ -493,7 +453,47 @@
         "Quantum Error Correction",
         "Topological Quantum Memory"
       ],
-      "works_count": 116735
+      "works_count": 119543
+    },
+    {
+      "topic_id": "https://openalex.org/T10627",
+      "display_name": "Advanced Image and Video Retrieval Techniques",
+      "subfield": "Computer Vision and Pattern Recognition",
+      "subfield_id": "https://openalex.org/subfields/1707",
+      "field": "Computer Science",
+      "keywords": [
+        "Local Descriptors",
+        "Feature Matching",
+        "Object Recognition",
+        "Image Retrieval",
+        "Deep Learning",
+        "Binary Codes",
+        "Scene Classification",
+        "Interest Point Detectors",
+        "Bag-of-Features",
+        "Cross-Modal Retrieval"
+      ],
+      "works_count": 119444
+    },
+    {
+      "topic_id": "https://openalex.org/T10080",
+      "display_name": "Energy Efficient Wireless Sensor Networks",
+      "subfield": "Computer Networks and Communications",
+      "subfield_id": "https://openalex.org/subfields/1705",
+      "field": "Computer Science",
+      "keywords": [
+        "Wireless Sensor Networks",
+        "Energy-Efficient Protocols",
+        "Routing Techniques",
+        "Clustering Algorithms",
+        "Data Aggregation",
+        "Coverage and Connectivity",
+        "Mobile Sensor Deployment",
+        "MAC Protocols",
+        "Environmental Monitoring",
+        "Healthcare Applications"
+      ],
+      "works_count": 118738
     },
     {
       "topic_id": "https://openalex.org/T10586",
@@ -513,7 +513,7 @@
         "Multi-Agent Systems",
         "Autonomous Vehicles"
       ],
-      "works_count": 112706
+      "works_count": 113437
     },
     {
       "topic_id": "https://openalex.org/T10126",
@@ -533,7 +533,7 @@
         "Abstract Interpretation",
         "Programming Language Semantics"
       ],
-      "works_count": 108543
+      "works_count": 110089
     },
     {
       "topic_id": "https://openalex.org/T10317",
@@ -553,7 +553,7 @@
         "Complex Event Processing",
         "Main Memory Databases"
       ],
-      "works_count": 107905
+      "works_count": 108466
     },
     {
       "topic_id": "https://openalex.org/T10860",
@@ -573,7 +573,7 @@
         "Lipreading",
         "Neural Networks"
       ],
-      "works_count": 106958
+      "works_count": 107623
     },
     {
       "topic_id": "https://openalex.org/T10531",
@@ -593,7 +593,7 @@
         "Light Field",
         "Scene Reconstruction"
       ],
-      "works_count": 105598
+      "works_count": 106434
     },
     {
       "topic_id": "https://openalex.org/T12002",
@@ -613,7 +613,7 @@
         "Fractal Dimension",
         "Causal Discovery"
       ],
-      "works_count": 104747
+      "works_count": 105823
     },
     {
       "topic_id": "https://openalex.org/T10036",
@@ -633,7 +633,7 @@
         "Model Compression",
         "Autonomous Driving"
       ],
-      "works_count": 102669
+      "works_count": 105194
     },
     {
       "topic_id": "https://openalex.org/T12100",
@@ -653,7 +653,7 @@
         "Coarse-Grained Computation",
         "Microscopic Simulators"
       ],
-      "works_count": 101573
+      "works_count": 102338
     },
     {
       "topic_id": "https://openalex.org/T10273",
@@ -673,27 +673,7 @@
         "Deep Learning",
         "IoT Security"
       ],
-      "works_count": 95401
-    },
-    {
-      "topic_id": "https://openalex.org/T11106",
-      "display_name": "Data Management and Algorithms",
-      "subfield": "Signal Processing",
-      "subfield_id": "https://openalex.org/subfields/1711",
-      "field": "Computer Science",
-      "keywords": [
-        "Trajectory Data Mining",
-        "GPS Trajectories",
-        "Skyline Operator",
-        "Similarity Search",
-        "Spatial Databases",
-        "Top-k Query Processing",
-        "Probabilistic Databases",
-        "Location Prediction",
-        "Clustering Algorithms",
-        "Semantic Trajectories"
-      ],
-      "works_count": 94961
+      "works_count": 96404
     },
     {
       "topic_id": "https://openalex.org/T10201",
@@ -713,27 +693,27 @@
         "Speaker Diarization",
         "Statistical Language Modeling"
       ],
-      "works_count": 94569
+      "works_count": 96187
     },
     {
-      "topic_id": "https://openalex.org/T12203",
-      "display_name": "Mobile Agent-Based Network Management",
-      "subfield": "Computer Networks and Communications",
-      "subfield_id": "https://openalex.org/subfields/1705",
+      "topic_id": "https://openalex.org/T11106",
+      "display_name": "Data Management and Algorithms",
+      "subfield": "Signal Processing",
+      "subfield_id": "https://openalex.org/subfields/1711",
       "field": "Computer Science",
       "keywords": [
-        "Mobile Agents",
-        "Network Management",
-        "Security",
-        "Distributed Systems",
-        "Fault Tolerance",
-        "Internet Applications",
-        "SNMP",
-        "Java Platform",
-        "Wireless Computing",
-        "XML-Based Management"
+        "Trajectory Data Mining",
+        "GPS Trajectories",
+        "Skyline Operator",
+        "Similarity Search",
+        "Spatial Databases",
+        "Top-k Query Processing",
+        "Probabilistic Databases",
+        "Location Prediction",
+        "Clustering Algorithms",
+        "Semantic Trajectories"
       ],
-      "works_count": 93614
+      "works_count": 95234
     },
     {
       "topic_id": "https://openalex.org/T12127",
@@ -753,7 +733,27 @@
         "DevOps",
         "System Logs"
       ],
-      "works_count": 93378
+      "works_count": 95178
+    },
+    {
+      "topic_id": "https://openalex.org/T12203",
+      "display_name": "Mobile Agent-Based Network Management",
+      "subfield": "Computer Networks and Communications",
+      "subfield_id": "https://openalex.org/subfields/1705",
+      "field": "Computer Science",
+      "keywords": [
+        "Mobile Agents",
+        "Network Management",
+        "Security",
+        "Distributed Systems",
+        "Fault Tolerance",
+        "Internet Applications",
+        "SNMP",
+        "Java Platform",
+        "Wireless Computing",
+        "XML-Based Management"
+      ],
+      "works_count": 94177
     },
     {
       "topic_id": "https://openalex.org/T10772",
@@ -773,7 +773,7 @@
         "Failure Prediction",
         "Software Aging"
       ],
-      "works_count": 92045
+      "works_count": 93149
     },
     {
       "topic_id": "https://openalex.org/T10688",
@@ -793,7 +793,7 @@
         "Poisson Noise",
         "Convolutional Neural Networks"
       ],
-      "works_count": 91593
+      "works_count": 91917
     },
     {
       "topic_id": "https://openalex.org/T10142",
@@ -813,7 +813,7 @@
         "Runtime Verification",
         "Probabilistic Systems"
       ],
-      "works_count": 90203
+      "works_count": 91470
     },
     {
       "topic_id": "https://openalex.org/T10904",
@@ -833,27 +833,7 @@
         "Dataflow Programming Languages",
         "Platform-Based Design"
       ],
-      "works_count": 87675
-    },
-    {
-      "topic_id": "https://openalex.org/T13745",
-      "display_name": "Media and Digital Communication",
-      "subfield": "Computer Networks and Communications",
-      "subfield_id": "https://openalex.org/subfields/1705",
-      "field": "Computer Science",
-      "keywords": [
-        "Digital Communication",
-        "Media Studies",
-        "Social Media",
-        "Television",
-        "Internet",
-        "New Media",
-        "Convergence",
-        "Information Technology",
-        "Interactive Communication",
-        "Online Platforms"
-      ],
-      "works_count": 87214
+      "works_count": 88465
     },
     {
       "topic_id": "https://openalex.org/T10799",
@@ -873,27 +853,27 @@
         "User Interaction",
         "Big Data"
       ],
-      "works_count": 85958
+      "works_count": 87617
     },
     {
-      "topic_id": "https://openalex.org/T11181",
-      "display_name": "Advanced Data Storage Technologies",
+      "topic_id": "https://openalex.org/T13745",
+      "display_name": "Media and Digital Communication",
       "subfield": "Computer Networks and Communications",
       "subfield_id": "https://openalex.org/subfields/1705",
       "field": "Computer Science",
       "keywords": [
-        "Distributed Storage",
-        "Network Coding",
-        "Flash Memory",
-        "Erasure Coding",
-        "Solid State Drives",
-        "Storage Systems",
-        "Regenerating Codes",
-        "NAND Flash Memory",
-        "File Systems",
-        "Parallel Computing"
+        "Digital Communication",
+        "Media Studies",
+        "Social Media",
+        "Television",
+        "Internet",
+        "New Media",
+        "Convergence",
+        "Information Technology",
+        "Interactive Communication",
+        "Online Platforms"
       ],
-      "works_count": 84592
+      "works_count": 87378
     },
     {
       "topic_id": "https://openalex.org/T10052",
@@ -913,7 +893,27 @@
         "Deep Learning",
         "Texture Analysis"
       ],
-      "works_count": 84410
+      "works_count": 85446
+    },
+    {
+      "topic_id": "https://openalex.org/T11181",
+      "display_name": "Advanced Data Storage Technologies",
+      "subfield": "Computer Networks and Communications",
+      "subfield_id": "https://openalex.org/subfields/1705",
+      "field": "Computer Science",
+      "keywords": [
+        "Distributed Storage",
+        "Network Coding",
+        "Flash Memory",
+        "Erasure Coding",
+        "Solid State Drives",
+        "Storage Systems",
+        "Regenerating Codes",
+        "NAND Flash Memory",
+        "File Systems",
+        "Parallel Computing"
+      ],
+      "works_count": 85064
     },
     {
       "topic_id": "https://openalex.org/T10575",
@@ -933,7 +933,7 @@
         "Call Admission Control",
         "Channel Assignment"
       ],
-      "works_count": 84260
+      "works_count": 84467
     },
     {
       "topic_id": "https://openalex.org/T11309",
@@ -953,7 +953,7 @@
         "Acoustic Scene Classification",
         "Audio Event Detection"
       ],
-      "works_count": 82905
+      "works_count": 83551
     },
     {
       "topic_id": "https://openalex.org/T11187",
@@ -973,7 +973,7 @@
         "Complex Networks",
         "Nonlinear Dynamics"
       ],
-      "works_count": 82020
+      "works_count": 83418
     },
     {
       "topic_id": "https://openalex.org/T10331",
@@ -993,7 +993,7 @@
         "Multiple Object Tracking",
         "Motion Detection"
       ],
-      "works_count": 81910
+      "works_count": 82388
     },
     {
       "topic_id": "https://openalex.org/T13559",
@@ -1013,7 +1013,7 @@
         "Fuzzy Logic",
         "Educational Technology"
       ],
-      "works_count": 81578
+      "works_count": 81893
     },
     {
       "topic_id": "https://openalex.org/T10237",
@@ -1033,7 +1033,7 @@
         "Zero-Knowledge Proofs",
         "Trapdoor Functions"
       ],
-      "works_count": 80755
+      "works_count": 81790
     },
     {
       "topic_id": "https://openalex.org/T10764",
@@ -1053,7 +1053,7 @@
         "Secure Computation",
         "Membership Inference Attacks"
       ],
-      "works_count": 80400
+      "works_count": 81730
     },
     {
       "topic_id": "https://openalex.org/T10862",
@@ -1073,7 +1073,7 @@
         "Whole Slide Imaging",
         "Cancer Prognosis"
       ],
-      "works_count": 80371
+      "works_count": 81607
     },
     {
       "topic_id": "https://openalex.org/T10374",
@@ -1093,27 +1093,7 @@
         "Approximation Algorithms",
         "Homomorphism"
       ],
-      "works_count": 79265
-    },
-    {
-      "topic_id": "https://openalex.org/T10824",
-      "display_name": "Image Retrieval and Classification Techniques",
-      "subfield": "Computer Vision and Pattern Recognition",
-      "subfield_id": "https://openalex.org/subfields/1707",
-      "field": "Computer Science",
-      "keywords": [
-        "Shape Matching",
-        "Content-Based Image Retrieval",
-        "Texture Classification",
-        "Local Binary Patterns",
-        "Feature Descriptors",
-        "Semantic Relevance",
-        "Rotation Invariant",
-        "Medical Applications",
-        "Machine Learning",
-        "Image Annotation"
-      ],
-      "works_count": 76823
+      "works_count": 80023
     },
     {
       "topic_id": "https://openalex.org/T10648",
@@ -1133,7 +1113,27 @@
         "Social Interaction",
         "Learning Outcomes"
       ],
-      "works_count": 76307
+      "works_count": 78255
+    },
+    {
+      "topic_id": "https://openalex.org/T10824",
+      "display_name": "Image Retrieval and Classification Techniques",
+      "subfield": "Computer Vision and Pattern Recognition",
+      "subfield_id": "https://openalex.org/subfields/1707",
+      "field": "Computer Science",
+      "keywords": [
+        "Shape Matching",
+        "Content-Based Image Retrieval",
+        "Texture Classification",
+        "Local Binary Patterns",
+        "Feature Descriptors",
+        "Semantic Relevance",
+        "Rotation Invariant",
+        "Medical Applications",
+        "Machine Learning",
+        "Image Annotation"
+      ],
+      "works_count": 77194
     },
     {
       "topic_id": "https://openalex.org/T11727",
@@ -1153,7 +1153,7 @@
         "Algebraic Semantics",
         "Probability Theory"
       ],
-      "works_count": 75838
+      "works_count": 76444
     },
     {
       "topic_id": "https://openalex.org/T10138",
@@ -1173,27 +1173,7 @@
         "Wireless Networks",
         "QoS Routing"
       ],
-      "works_count": 75451
-    },
-    {
-      "topic_id": "https://openalex.org/T10246",
-      "display_name": "Mobile Ad Hoc Networks",
-      "subfield": "Computer Networks and Communications",
-      "subfield_id": "https://openalex.org/subfields/1705",
-      "field": "Computer Science",
-      "keywords": [
-        "Ad Hoc Networks",
-        "Wireless Mesh Networks",
-        "Routing Protocols",
-        "Mobile Ad Hoc Networks",
-        "Multi-hop Wireless Routing",
-        "Security in Wireless Networks",
-        "Topology Control",
-        "Channel Assignment",
-        "Power Control",
-        "Mobility Models"
-      ],
-      "works_count": 75246
+      "works_count": 75945
     },
     {
       "topic_id": "https://openalex.org/T10057",
@@ -1213,7 +1193,7 @@
         "Laplacian Eigenmaps",
         "Sparse Representation"
       ],
-      "works_count": 75130
+      "works_count": 75753
     },
     {
       "topic_id": "https://openalex.org/T11512",
@@ -1233,27 +1213,27 @@
         "Surveillance",
         "Time Series"
       ],
-      "works_count": 74841
+      "works_count": 75602
     },
     {
-      "topic_id": "https://openalex.org/T11010",
-      "display_name": "Logic, Reasoning, and Knowledge",
-      "subfield": "Artificial Intelligence",
-      "subfield_id": "https://openalex.org/subfields/1702",
+      "topic_id": "https://openalex.org/T10246",
+      "display_name": "Mobile Ad Hoc Networks",
+      "subfield": "Computer Networks and Communications",
+      "subfield_id": "https://openalex.org/subfields/1705",
       "field": "Computer Science",
       "keywords": [
-        "Answer Set Programming",
-        "Modal Logic",
-        "Knowledge Representation",
-        "Belief Revision",
-        "Temporal Logic",
-        "Epistemic Logic",
-        "Nonmonotonic Reasoning",
-        "Description Logics",
-        "Model Checking",
-        "Constraint Logic Programming"
+        "Ad Hoc Networks",
+        "Wireless Mesh Networks",
+        "Routing Protocols",
+        "Mobile Ad Hoc Networks",
+        "Multi-hop Wireless Routing",
+        "Security in Wireless Networks",
+        "Topology Control",
+        "Channel Assignment",
+        "Power Control",
+        "Mobility Models"
       ],
-      "works_count": 74585
+      "works_count": 75583
     },
     {
       "topic_id": "https://openalex.org/T10888",
@@ -1273,7 +1253,27 @@
         "Smart Factory",
         "User Experience"
       ],
-      "works_count": 74344
+      "works_count": 75394
+    },
+    {
+      "topic_id": "https://openalex.org/T11010",
+      "display_name": "Logic, Reasoning, and Knowledge",
+      "subfield": "Artificial Intelligence",
+      "subfield_id": "https://openalex.org/subfields/1702",
+      "field": "Computer Science",
+      "keywords": [
+        "Answer Set Programming",
+        "Modal Logic",
+        "Knowledge Representation",
+        "Belief Revision",
+        "Temporal Logic",
+        "Epistemic Logic",
+        "Nonmonotonic Reasoning",
+        "Description Logics",
+        "Model Checking",
+        "Constraint Logic Programming"
+      ],
+      "works_count": 75284
     },
     {
       "topic_id": "https://openalex.org/T11975",
@@ -1293,7 +1293,7 @@
         "Semantic Genetic Programming",
         "Multiobjective Optimization"
       ],
-      "works_count": 73444
+      "works_count": 73752
     },
     {
       "topic_id": "https://openalex.org/T11269",
@@ -1313,7 +1313,7 @@
         "Approximate Matching",
         "Algorithms"
       ],
-      "works_count": 72190
+      "works_count": 72429
     },
     {
       "topic_id": "https://openalex.org/T10388",
@@ -1333,7 +1333,7 @@
         "Deep Learning",
         "Spatial Domain"
       ],
-      "works_count": 71969
+      "works_count": 72428
     },
     {
       "topic_id": "https://openalex.org/T10100",
@@ -1353,27 +1353,7 @@
         "Constraint Handling",
         "Optimization Applications"
       ],
-      "works_count": 71674
-    },
-    {
-      "topic_id": "https://openalex.org/T10829",
-      "display_name": "Interconnection Networks and Systems",
-      "subfield": "Computer Networks and Communications",
-      "subfield_id": "https://openalex.org/subfields/1705",
-      "field": "Computer Science",
-      "keywords": [
-        "Networks on Chip",
-        "Interconnection Networks",
-        "System-on-Chip",
-        "NoC Architecture",
-        "Routing Algorithms",
-        "Performance Evaluation",
-        "Power Optimization",
-        "Wireless Interconnects",
-        "Fault Tolerance",
-        "Multi-core Processors"
-      ],
-      "works_count": 71191
+      "works_count": 72145
     },
     {
       "topic_id": "https://openalex.org/T11241",
@@ -1393,7 +1373,27 @@
         "IoT Security",
         "Ransomware"
       ],
-      "works_count": 71075
+      "works_count": 71796
+    },
+    {
+      "topic_id": "https://openalex.org/T10829",
+      "display_name": "Interconnection Networks and Systems",
+      "subfield": "Computer Networks and Communications",
+      "subfield_id": "https://openalex.org/subfields/1705",
+      "field": "Computer Science",
+      "keywords": [
+        "Networks on Chip",
+        "Interconnection Networks",
+        "System-on-Chip",
+        "NoC Architecture",
+        "Routing Algorithms",
+        "Performance Evaluation",
+        "Power Optimization",
+        "Wireless Interconnects",
+        "Fault Tolerance",
+        "Multi-core Processors"
+      ],
+      "works_count": 71777
     },
     {
       "topic_id": "https://openalex.org/T10601",
@@ -1413,7 +1413,7 @@
         "Convolutional Neural Networks",
         "Binarization"
       ],
-      "works_count": 70976
+      "works_count": 71675
     },
     {
       "topic_id": "https://openalex.org/T10638",
@@ -1433,7 +1433,7 @@
         "Inverse Modeling",
         "Surface Profilometry"
       ],
-      "works_count": 70765
+      "works_count": 71180
     },
     {
       "topic_id": "https://openalex.org/T10444",
@@ -1453,7 +1453,7 @@
         "Ambient Intelligence",
         "Fall Detection"
       ],
-      "works_count": 69648
+      "works_count": 70287
     },
     {
       "topic_id": "https://openalex.org/T10743",
@@ -1473,7 +1473,7 @@
         "Model-Based Testing",
         "Fuzzing"
       ],
-      "works_count": 68799
+      "works_count": 69514
     },
     {
       "topic_id": "https://openalex.org/T10901",
@@ -1493,7 +1493,7 @@
         "Vector Quantization",
         "Error Resilient Coding"
       ],
-      "works_count": 66474
+      "works_count": 66984
     },
     {
       "topic_id": "https://openalex.org/T13681",
@@ -1513,7 +1513,7 @@
         "Quality Assurance",
         "Internet Courses"
       ],
-      "works_count": 65937
+      "works_count": 66265
     },
     {
       "topic_id": "https://openalex.org/T11130",
@@ -1533,7 +1533,7 @@
         "Decoding Algorithms",
         "Bent Functions"
       ],
-      "works_count": 65278
+      "works_count": 65920
     },
     {
       "topic_id": "https://openalex.org/T10664",
@@ -1553,7 +1553,7 @@
         "Twitter Sentiment",
         "Machine Learning"
       ],
-      "works_count": 64874
+      "works_count": 65827
     },
     {
       "topic_id": "https://openalex.org/T10714",
@@ -1573,87 +1573,7 @@
         "Machine Learning for Networking",
         "Security in SDN"
       ],
-      "works_count": 61985
-    },
-    {
-      "topic_id": "https://openalex.org/T10639",
-      "display_name": "Advanced Software Engineering Methodologies",
-      "subfield": "Artificial Intelligence",
-      "subfield_id": "https://openalex.org/subfields/1702",
-      "field": "Computer Science",
-      "keywords": [
-        "Autonomic Computing",
-        "Self-Adaptive Systems",
-        "Software Architecture",
-        "Aspect-Oriented Programming",
-        "Requirements Engineering",
-        "Feature Models",
-        "Variability Management",
-        "Middleware",
-        "Dynamic Software Product Lines",
-        "Model-Based Development"
-      ],
-      "works_count": 60414
-    },
-    {
-      "topic_id": "https://openalex.org/T12801",
-      "display_name": "Bluetooth and Wireless Communication Technologies",
-      "subfield": "Computer Networks and Communications",
-      "subfield_id": "https://openalex.org/subfields/1705",
-      "field": "Computer Science",
-      "keywords": [
-        "Bluetooth Low Energy",
-        "Wireless Technology",
-        "IoT",
-        "Security",
-        "Scatternet Formation",
-        "Interference Mitigation",
-        "Mesh Networks",
-        "Performance Analysis",
-        "Device Discovery",
-        "Coexistence Mechanisms"
-      ],
-      "works_count": 59785
-    },
-    {
-      "topic_id": "https://openalex.org/T10545",
-      "display_name": "Optimization and Variational Analysis",
-      "subfield": "Computational Theory and Mathematics",
-      "subfield_id": "https://openalex.org/subfields/1703",
-      "field": "Computer Science",
-      "keywords": [
-        "Iterative Algorithms",
-        "Nonlinear Operators",
-        "Optimization",
-        "Fixed-Point Problems",
-        "Variational Inequalities",
-        "Equilibrium Problems",
-        "Convergence Theorems",
-        "Bilevel Programming",
-        "Hamilton-Jacobi Formulation",
-        "Nonexpansive Mappings"
-      ],
-      "works_count": 59013
-    },
-    {
-      "topic_id": "https://openalex.org/T11902",
-      "display_name": "Intelligent Tutoring Systems and Adaptive Learning",
-      "subfield": "Artificial Intelligence",
-      "subfield_id": "https://openalex.org/subfields/1702",
-      "field": "Computer Science",
-      "keywords": [
-        "Intelligent Tutoring Systems",
-        "Affective States",
-        "Cognitive-Affective Interaction",
-        "Meta-cognitive Skills",
-        "Knowledge Tracing",
-        "Student Modeling",
-        "Adaptive Learning Environments",
-        "Educational Agents",
-        "Bayesian Networks",
-        "Pedagogical Strategies"
-      ],
-      "works_count": 58658
+      "works_count": 62855
     },
     {
       "topic_id": "https://openalex.org/T11714",
@@ -1673,107 +1593,87 @@
         "Language Understanding",
         "Deep Learning"
       ],
-      "works_count": 58520
+      "works_count": 61420
     },
     {
-      "topic_id": "https://openalex.org/T10711",
-      "display_name": "Target Tracking and Data Fusion in Sensor Networks",
+      "topic_id": "https://openalex.org/T10639",
+      "display_name": "Advanced Software Engineering Methodologies",
       "subfield": "Artificial Intelligence",
       "subfield_id": "https://openalex.org/subfields/1702",
       "field": "Computer Science",
       "keywords": [
-        "Particle Filters",
-        "Nonlinear Estimation",
-        "Kalman Filters",
-        "Monte Carlo Methods",
-        "State Estimation",
-        "Sensor Fusion",
-        "Sequential Monte Carlo",
-        "Gaussian Filters",
-        "Multitarget Tracking",
-        "Bayesian Inference"
+        "Autonomic Computing",
+        "Self-Adaptive Systems",
+        "Software Architecture",
+        "Aspect-Oriented Programming",
+        "Requirements Engineering",
+        "Feature Models",
+        "Variability Management",
+        "Middleware",
+        "Dynamic Software Product Lines",
+        "Model-Based Development"
       ],
-      "works_count": 58021
+      "works_count": 61193
     },
     {
-      "topic_id": "https://openalex.org/T10796",
-      "display_name": "Cooperative Communication and Network Coding",
+      "topic_id": "https://openalex.org/T11902",
+      "display_name": "Intelligent Tutoring Systems and Adaptive Learning",
+      "subfield": "Artificial Intelligence",
+      "subfield_id": "https://openalex.org/subfields/1702",
+      "field": "Computer Science",
+      "keywords": [
+        "Intelligent Tutoring Systems",
+        "Affective States",
+        "Cognitive-Affective Interaction",
+        "Meta-cognitive Skills",
+        "Knowledge Tracing",
+        "Student Modeling",
+        "Adaptive Learning Environments",
+        "Educational Agents",
+        "Bayesian Networks",
+        "Pedagogical Strategies"
+      ],
+      "works_count": 60069
+    },
+    {
+      "topic_id": "https://openalex.org/T12801",
+      "display_name": "Bluetooth and Wireless Communication Technologies",
       "subfield": "Computer Networks and Communications",
       "subfield_id": "https://openalex.org/subfields/1705",
       "field": "Computer Science",
       "keywords": [
-        "Cooperative Diversity",
-        "Wireless Networks",
-        "Network Coding",
-        "Relay Networks",
-        "Space-Time Coding",
-        "Amplify-and-Forward",
-        "Physical Layer Network Coding",
-        "MIMO Relay Channels",
-        "Outage Probability",
-        "Multiuser Communication"
+        "Bluetooth Low Energy",
+        "Wireless Technology",
+        "IoT",
+        "Security",
+        "Scatternet Formation",
+        "Interference Mitigation",
+        "Mesh Networks",
+        "Performance Analysis",
+        "Device Discovery",
+        "Coexistence Mechanisms"
       ],
-      "works_count": 57995
+      "works_count": 59992
     },
     {
-      "topic_id": "https://openalex.org/T10820",
-      "display_name": "Fuzzy Logic and Control Systems",
-      "subfield": "Artificial Intelligence",
-      "subfield_id": "https://openalex.org/subfields/1702",
+      "topic_id": "https://openalex.org/T10545",
+      "display_name": "Optimization and Variational Analysis",
+      "subfield": "Computational Theory and Mathematics",
+      "subfield_id": "https://openalex.org/subfields/1703",
       "field": "Computer Science",
       "keywords": [
-        "Type-2 Fuzzy Sets",
-        "Fuzzy Logic Systems",
-        "Neuro-Fuzzy Methods",
-        "Interval Type-2 Fuzzy Logic",
-        "Genetic Fuzzy Systems",
-        "Fuzzy Rule-Based Systems",
-        "System Identification",
-        "Control Systems",
-        "Machine Learning",
-        "Pattern Recognition"
+        "Iterative Algorithms",
+        "Nonlinear Operators",
+        "Optimization",
+        "Fixed-Point Problems",
+        "Variational Inequalities",
+        "Equilibrium Problems",
+        "Convergence Theorems",
+        "Bilevel Programming",
+        "Hamilton-Jacobi Formulation",
+        "Nonexpansive Mappings"
       ],
-      "works_count": 57201
-    },
-    {
-      "topic_id": "https://openalex.org/T11032",
-      "display_name": "VLSI and Analog Circuit Testing",
-      "subfield": "Hardware and Architecture",
-      "subfield_id": "https://openalex.org/subfields/1708",
-      "field": "Computer Science",
-      "keywords": [
-        "Test Data Compression",
-        "Embedded Cores",
-        "Scan Testing",
-        "Analog Circuit Fault Diagnosis",
-        "BIST Scheme",
-        "Test Access Architecture",
-        "Low-Power Testing",
-        "Test Vector Compression",
-        "System-on-a-Chip Test",
-        "Delay Fault Testing"
-      ],
-      "works_count": 57075
-    },
-    {
-      "topic_id": "https://openalex.org/T13674",
-      "display_name": "Computer Science and Engineering",
-      "subfield": "Artificial Intelligence",
-      "subfield_id": "https://openalex.org/subfields/1702",
-      "field": "Computer Science",
-      "keywords": [
-        "Digital Image Processing",
-        "Artificial Neural Networks",
-        "MATLAB",
-        "Cryptography",
-        "Machine Learning",
-        "Computer Vision",
-        "Big Data",
-        "Face Recognition",
-        "Data Security",
-        "Traffic Sign Recognition"
-      ],
-      "works_count": 57064
+      "works_count": 59738
     },
     {
       "topic_id": "https://openalex.org/T11689",
@@ -1793,107 +1693,47 @@
         "Attack",
         "Verification"
       ],
-      "works_count": 56802
+      "works_count": 59019
     },
     {
-      "topic_id": "https://openalex.org/T10249",
-      "display_name": "Distributed Control Multi-Agent Systems",
+      "topic_id": "https://openalex.org/T10711",
+      "display_name": "Target Tracking and Data Fusion in Sensor Networks",
+      "subfield": "Artificial Intelligence",
+      "subfield_id": "https://openalex.org/subfields/1702",
+      "field": "Computer Science",
+      "keywords": [
+        "Particle Filters",
+        "Nonlinear Estimation",
+        "Kalman Filters",
+        "Monte Carlo Methods",
+        "State Estimation",
+        "Sensor Fusion",
+        "Sequential Monte Carlo",
+        "Gaussian Filters",
+        "Multitarget Tracking",
+        "Bayesian Inference"
+      ],
+      "works_count": 58357
+    },
+    {
+      "topic_id": "https://openalex.org/T10796",
+      "display_name": "Cooperative Communication and Network Coding",
       "subfield": "Computer Networks and Communications",
       "subfield_id": "https://openalex.org/subfields/1705",
       "field": "Computer Science",
       "keywords": [
-        "Consensus",
-        "Multi-Agent Systems",
-        "Cooperative Control",
-        "Formation Control",
-        "Distributed Optimization",
-        "Swarm Robotics",
-        "Leader-Follower",
-        "Event-Triggered Control",
-        "Sensor Networks",
-        "Collective Behavior"
+        "Cooperative Diversity",
+        "Wireless Networks",
+        "Network Coding",
+        "Relay Networks",
+        "Space-Time Coding",
+        "Amplify-and-Forward",
+        "Physical Layer Network Coding",
+        "MIMO Relay Channels",
+        "Outage Probability",
+        "Multiuser Communication"
       ],
-      "works_count": 56798
-    },
-    {
-      "topic_id": "https://openalex.org/T10456",
-      "display_name": "Multi-Agent Systems and Negotiation",
-      "subfield": "Artificial Intelligence",
-      "subfield_id": "https://openalex.org/subfields/1702",
-      "field": "Computer Science",
-      "keywords": [
-        "Agent-Based Modeling",
-        "Multi-Agent Systems",
-        "Argumentation Frameworks",
-        "Software Engineering",
-        "Simulation",
-        "Negotiation",
-        "Artificial Intelligence",
-        "Dialectical Argumentation",
-        "Formal Methods",
-        "Social Simulation"
-      ],
-      "works_count": 56642
-    },
-    {
-      "topic_id": "https://openalex.org/T11017",
-      "display_name": "Chaos-based Image/Signal Encryption",
-      "subfield": "Computer Vision and Pattern Recognition",
-      "subfield_id": "https://openalex.org/subfields/1707",
-      "field": "Computer Science",
-      "keywords": [
-        "Chaos",
-        "Image Encryption",
-        "Chaotic Maps",
-        "Optical Encryption",
-        "DNA Sequence",
-        "Cryptanalysis",
-        "Compressive Sensing",
-        "Random Number Generator",
-        "Color Image Encryption",
-        "Security Analysis"
-      ],
-      "works_count": 56625
-    },
-    {
-      "topic_id": "https://openalex.org/T12031",
-      "display_name": "Speech and dialogue systems",
-      "subfield": "Artificial Intelligence",
-      "subfield_id": "https://openalex.org/subfields/1702",
-      "field": "Computer Science",
-      "keywords": [
-        "Spoken Dialogue Systems",
-        "Markov Decision Processes",
-        "User Simulation",
-        "Multimodal Interaction",
-        "Reinforcement Learning",
-        "Natural Language Generation",
-        "Hidden Information State Model",
-        "Dialog Management",
-        "Semantic Processing",
-        "Referring Expressions"
-      ],
-      "works_count": 56605
-    },
-    {
-      "topic_id": "https://openalex.org/T13018",
-      "display_name": "Seismology and Earthquake Studies",
-      "subfield": "Artificial Intelligence",
-      "subfield_id": "https://openalex.org/subfields/1702",
-      "field": "Computer Science",
-      "keywords": [
-        "Machine Learning",
-        "Seismic Signals",
-        "Earthquake Detection",
-        "Early Warning",
-        "Convolutional Neural Network",
-        "Seismic Event Classification",
-        "Real-Time Seismology",
-        "Deep Learning Models",
-        "Seismic Phase Picking",
-        "Citizen Science"
-      ],
-      "works_count": 56548
+      "works_count": 58298
     },
     {
       "topic_id": "https://openalex.org/T11435",
@@ -1913,127 +1753,87 @@
         "Homotopy Continuation",
         "Max-Plus Algebra"
       ],
-      "works_count": 56541
+      "works_count": 57924
     },
     {
-      "topic_id": "https://openalex.org/T11901",
-      "display_name": "Bayesian Methods and Mixture Models",
+      "topic_id": "https://openalex.org/T10456",
+      "display_name": "Multi-Agent Systems and Negotiation",
       "subfield": "Artificial Intelligence",
       "subfield_id": "https://openalex.org/subfields/1702",
       "field": "Computer Science",
       "keywords": [
-        "Mixture Models",
-        "Clustering",
-        "Bayesian Inference",
-        "Dirichlet Process",
-        "Gaussian Mixture Models",
-        "Variational Inference",
-        "Markov Chain Monte Carlo",
-        "Finite Mixtures",
-        "Hidden Markov Models",
-        "Nonparametric Bayesian"
-      ],
-      "works_count": 56438
-    },
-    {
-      "topic_id": "https://openalex.org/T11448",
-      "display_name": "Face recognition and analysis",
-      "subfield": "Computer Vision and Pattern Recognition",
-      "subfield_id": "https://openalex.org/subfields/1707",
-      "field": "Computer Science",
-      "keywords": [
-        "Face Recognition",
-        "Facial Landmark Detection",
-        "Deep Learning",
-        "Age Estimation",
-        "3D Face Reconstruction",
-        "Facial Expression Analysis",
-        "Pose Estimation",
-        "Feature Learning",
-        "Metric Learning",
-        "Convolutional Neural Networks"
-      ],
-      "works_count": 55866
-    },
-    {
-      "topic_id": "https://openalex.org/T11303",
-      "display_name": "Bayesian Modeling and Causal Inference",
-      "subfield": "Artificial Intelligence",
-      "subfield_id": "https://openalex.org/subfields/1702",
-      "field": "Computer Science",
-      "keywords": [
-        "Bayesian Networks",
-        "Causal Inference",
-        "Graphical Models",
-        "Probabilistic Learning",
-        "Markov Logic Networks",
-        "Inference Algorithms",
-        "Causal Discovery",
-        "Probabilistic Graphical Models",
-        "Structure Learning",
-        "Imprecise Probabilities"
-      ],
-      "works_count": 55272
-    },
-    {
-      "topic_id": "https://openalex.org/T11447",
-      "display_name": "Blind Source Separation Techniques",
-      "subfield": "Signal Processing",
-      "subfield_id": "https://openalex.org/subfields/1711",
-      "field": "Computer Science",
-      "keywords": [
-        "Independent Component Analysis",
-        "Blind Separation",
-        "Sparse Representation",
-        "Signal Decomposition",
-        "Convolutional Mixtures",
-        "Biomedical Signals",
-        "Frequency Domain",
-        "Non-stationary Sources",
-        "Natural Images",
-        "Temporal Structure"
-      ],
-      "works_count": 55111
-    },
-    {
-      "topic_id": "https://openalex.org/T10462",
-      "display_name": "Reinforcement Learning in Robotics",
-      "subfield": "Artificial Intelligence",
-      "subfield_id": "https://openalex.org/subfields/1702",
-      "field": "Computer Science",
-      "keywords": [
-        "Reinforcement Learning",
-        "Deep Learning",
-        "Neural Networks",
-        "Robotics",
-        "Autonomous Control",
-        "Policy Gradient",
+        "Agent-Based Modeling",
         "Multi-Agent Systems",
-        "Model-Based Learning",
-        "Curiosity-Driven Exploration",
-        "Simulation to Real-world Transfer"
+        "Argumentation Frameworks",
+        "Software Engineering",
+        "Simulation",
+        "Negotiation",
+        "Artificial Intelligence",
+        "Dialectical Argumentation",
+        "Formal Methods",
+        "Social Simulation"
       ],
-      "works_count": 54929
+      "works_count": 57666
     },
     {
-      "topic_id": "https://openalex.org/T11450",
-      "display_name": "Model-Driven Software Engineering Techniques",
-      "subfield": "Software",
-      "subfield_id": "https://openalex.org/subfields/1712",
+      "topic_id": "https://openalex.org/T10249",
+      "display_name": "Distributed Control Multi-Agent Systems",
+      "subfield": "Computer Networks and Communications",
+      "subfield_id": "https://openalex.org/subfields/1705",
       "field": "Computer Science",
       "keywords": [
-        "Model-Driven Engineering",
-        "Domain-Specific Languages",
-        "Model Transformation",
-        "Metamodeling",
-        "UML",
-        "Software Development",
-        "Model Consistency",
-        "Graph Transformation",
-        "MDE Practices",
-        "Tool Integration"
+        "Consensus",
+        "Multi-Agent Systems",
+        "Cooperative Control",
+        "Formation Control",
+        "Distributed Optimization",
+        "Swarm Robotics",
+        "Leader-Follower",
+        "Event-Triggered Control",
+        "Sensor Networks",
+        "Collective Behavior"
       ],
-      "works_count": 54817
+      "works_count": 57562
+    },
+    {
+      "topic_id": "https://openalex.org/T10820",
+      "display_name": "Fuzzy Logic and Control Systems",
+      "subfield": "Artificial Intelligence",
+      "subfield_id": "https://openalex.org/subfields/1702",
+      "field": "Computer Science",
+      "keywords": [
+        "Type-2 Fuzzy Sets",
+        "Fuzzy Logic Systems",
+        "Neuro-Fuzzy Methods",
+        "Interval Type-2 Fuzzy Logic",
+        "Genetic Fuzzy Systems",
+        "Fuzzy Rule-Based Systems",
+        "System Identification",
+        "Control Systems",
+        "Machine Learning",
+        "Pattern Recognition"
+      ],
+      "works_count": 57441
+    },
+    {
+      "topic_id": "https://openalex.org/T11032",
+      "display_name": "VLSI and Analog Circuit Testing",
+      "subfield": "Hardware and Architecture",
+      "subfield_id": "https://openalex.org/subfields/1708",
+      "field": "Computer Science",
+      "keywords": [
+        "Test Data Compression",
+        "Embedded Cores",
+        "Scan Testing",
+        "Analog Circuit Fault Diagnosis",
+        "BIST Scheme",
+        "Test Access Architecture",
+        "Low-Power Testing",
+        "Test Vector Compression",
+        "System-on-a-Chip Test",
+        "Delay Fault Testing"
+      ],
+      "works_count": 57436
     },
     {
       "topic_id": "https://openalex.org/T12128",
@@ -2053,7 +1853,207 @@
         "Consumer Perception",
         "Technology Adoption"
       ],
-      "works_count": 54740
+      "works_count": 57385
+    },
+    {
+      "topic_id": "https://openalex.org/T12031",
+      "display_name": "Speech and dialogue systems",
+      "subfield": "Artificial Intelligence",
+      "subfield_id": "https://openalex.org/subfields/1702",
+      "field": "Computer Science",
+      "keywords": [
+        "Spoken Dialogue Systems",
+        "Markov Decision Processes",
+        "User Simulation",
+        "Multimodal Interaction",
+        "Reinforcement Learning",
+        "Natural Language Generation",
+        "Hidden Information State Model",
+        "Dialog Management",
+        "Semantic Processing",
+        "Referring Expressions"
+      ],
+      "works_count": 57253
+    },
+    {
+      "topic_id": "https://openalex.org/T13674",
+      "display_name": "Computer Science and Engineering",
+      "subfield": "Artificial Intelligence",
+      "subfield_id": "https://openalex.org/subfields/1702",
+      "field": "Computer Science",
+      "keywords": [
+        "Digital Image Processing",
+        "Artificial Neural Networks",
+        "MATLAB",
+        "Cryptography",
+        "Machine Learning",
+        "Computer Vision",
+        "Big Data",
+        "Face Recognition",
+        "Data Security",
+        "Traffic Sign Recognition"
+      ],
+      "works_count": 57251
+    },
+    {
+      "topic_id": "https://openalex.org/T11017",
+      "display_name": "Chaos-based Image/Signal Encryption",
+      "subfield": "Computer Vision and Pattern Recognition",
+      "subfield_id": "https://openalex.org/subfields/1707",
+      "field": "Computer Science",
+      "keywords": [
+        "Chaos",
+        "Image Encryption",
+        "Chaotic Maps",
+        "Optical Encryption",
+        "DNA Sequence",
+        "Cryptanalysis",
+        "Compressive Sensing",
+        "Random Number Generator",
+        "Color Image Encryption",
+        "Security Analysis"
+      ],
+      "works_count": 57157
+    },
+    {
+      "topic_id": "https://openalex.org/T11901",
+      "display_name": "Bayesian Methods and Mixture Models",
+      "subfield": "Artificial Intelligence",
+      "subfield_id": "https://openalex.org/subfields/1702",
+      "field": "Computer Science",
+      "keywords": [
+        "Mixture Models",
+        "Clustering",
+        "Bayesian Inference",
+        "Dirichlet Process",
+        "Gaussian Mixture Models",
+        "Variational Inference",
+        "Markov Chain Monte Carlo",
+        "Finite Mixtures",
+        "Hidden Markov Models",
+        "Nonparametric Bayesian"
+      ],
+      "works_count": 56979
+    },
+    {
+      "topic_id": "https://openalex.org/T13018",
+      "display_name": "Seismology and Earthquake Studies",
+      "subfield": "Artificial Intelligence",
+      "subfield_id": "https://openalex.org/subfields/1702",
+      "field": "Computer Science",
+      "keywords": [
+        "Machine Learning",
+        "Seismic Signals",
+        "Earthquake Detection",
+        "Early Warning",
+        "Convolutional Neural Network",
+        "Seismic Event Classification",
+        "Real-Time Seismology",
+        "Deep Learning Models",
+        "Seismic Phase Picking",
+        "Citizen Science"
+      ],
+      "works_count": 56898
+    },
+    {
+      "topic_id": "https://openalex.org/T11448",
+      "display_name": "Face recognition and analysis",
+      "subfield": "Computer Vision and Pattern Recognition",
+      "subfield_id": "https://openalex.org/subfields/1707",
+      "field": "Computer Science",
+      "keywords": [
+        "Face Recognition",
+        "Facial Landmark Detection",
+        "Deep Learning",
+        "Age Estimation",
+        "3D Face Reconstruction",
+        "Facial Expression Analysis",
+        "Pose Estimation",
+        "Feature Learning",
+        "Metric Learning",
+        "Convolutional Neural Networks"
+      ],
+      "works_count": 56667
+    },
+    {
+      "topic_id": "https://openalex.org/T10462",
+      "display_name": "Reinforcement Learning in Robotics",
+      "subfield": "Artificial Intelligence",
+      "subfield_id": "https://openalex.org/subfields/1702",
+      "field": "Computer Science",
+      "keywords": [
+        "Reinforcement Learning",
+        "Deep Learning",
+        "Neural Networks",
+        "Robotics",
+        "Autonomous Control",
+        "Policy Gradient",
+        "Multi-Agent Systems",
+        "Model-Based Learning",
+        "Curiosity-Driven Exploration",
+        "Simulation to Real-world Transfer"
+      ],
+      "works_count": 56512
+    },
+    {
+      "topic_id": "https://openalex.org/T11303",
+      "display_name": "Bayesian Modeling and Causal Inference",
+      "subfield": "Artificial Intelligence",
+      "subfield_id": "https://openalex.org/subfields/1702",
+      "field": "Computer Science",
+      "keywords": [
+        "Bayesian Networks",
+        "Causal Inference",
+        "Graphical Models",
+        "Probabilistic Learning",
+        "Markov Logic Networks",
+        "Inference Algorithms",
+        "Causal Discovery",
+        "Probabilistic Graphical Models",
+        "Structure Learning",
+        "Imprecise Probabilities"
+      ],
+      "works_count": 55833
+    },
+    {
+      "topic_id": "https://openalex.org/T11450",
+      "display_name": "Model-Driven Software Engineering Techniques",
+      "subfield": "Software",
+      "subfield_id": "https://openalex.org/subfields/1712",
+      "field": "Computer Science",
+      "keywords": [
+        "Model-Driven Engineering",
+        "Domain-Specific Languages",
+        "Model Transformation",
+        "Metamodeling",
+        "UML",
+        "Software Development",
+        "Model Consistency",
+        "Graph Transformation",
+        "MDE Practices",
+        "Tool Integration"
+      ],
+      "works_count": 55201
+    },
+    {
+      "topic_id": "https://openalex.org/T11447",
+      "display_name": "Blind Source Separation Techniques",
+      "subfield": "Signal Processing",
+      "subfield_id": "https://openalex.org/subfields/1711",
+      "field": "Computer Science",
+      "keywords": [
+        "Independent Component Analysis",
+        "Blind Separation",
+        "Sparse Representation",
+        "Signal Decomposition",
+        "Convolutional Mixtures",
+        "Biomedical Signals",
+        "Frequency Domain",
+        "Non-stationary Sources",
+        "Natural Images",
+        "Temporal Structure"
+      ],
+      "works_count": 55173
     },
     {
       "topic_id": "https://openalex.org/T11276",
@@ -2073,7 +2073,7 @@
         "Weather Forecasts",
         "GIS-based Site Selection"
       ],
-      "works_count": 54337
+      "works_count": 54914
     },
     {
       "topic_id": "https://openalex.org/T11567",
@@ -2093,47 +2093,7 @@
         "State Complexity",
         "Semigroups"
       ],
-      "works_count": 54128
-    },
-    {
-      "topic_id": "https://openalex.org/T11063",
-      "display_name": "Rough Sets and Fuzzy Logic",
-      "subfield": "Computational Theory and Mathematics",
-      "subfield_id": "https://openalex.org/subfields/1703",
-      "field": "Computer Science",
-      "keywords": [
-        "Rough Sets",
-        "Granular Computing",
-        "Feature Selection",
-        "Decision Analysis",
-        "Information Granulation",
-        "Fuzzy Rough Sets",
-        "Concept Lattices",
-        "Knowledge Reduction",
-        "Three-Way Decisions",
-        "Probabilistic Rough Sets"
-      ],
-      "works_count": 52983
-    },
-    {
-      "topic_id": "https://openalex.org/T10906",
-      "display_name": "AI-based Problem Solving and Planning",
-      "subfield": "Artificial Intelligence",
-      "subfield_id": "https://openalex.org/subfields/1702",
-      "field": "Computer Science",
-      "keywords": [
-        "Planning Systems",
-        "Heuristic Search",
-        "Case-Based Reasoning",
-        "Temporal Planning",
-        "Knowledge-Based Systems",
-        "Robot Control",
-        "Model-Based Programming",
-        "Probabilistic Plan Recognition",
-        "Cognitive Architecture",
-        "Autonomous Systems"
-      ],
-      "works_count": 52806
+      "works_count": 54639
     },
     {
       "topic_id": "https://openalex.org/T11273",
@@ -2153,7 +2113,7 @@
         "Signal Processing on Graphs",
         "Semi-Supervised Learning"
       ],
-      "works_count": 52690
+      "works_count": 54438
     },
     {
       "topic_id": "https://openalex.org/T10775",
@@ -2173,47 +2133,27 @@
         "Conditional Generative Models",
         "Texture Synthesis"
       ],
-      "works_count": 51826
+      "works_count": 53936
     },
     {
-      "topic_id": "https://openalex.org/T10828",
-      "display_name": "Biometric Identification and Security",
-      "subfield": "Signal Processing",
-      "subfield_id": "https://openalex.org/subfields/1711",
+      "topic_id": "https://openalex.org/T10906",
+      "display_name": "AI-based Problem Solving and Planning",
+      "subfield": "Artificial Intelligence",
+      "subfield_id": "https://openalex.org/subfields/1702",
       "field": "Computer Science",
       "keywords": [
-        "Biometric Recognition",
-        "Security",
-        "Privacy",
-        "Authentication",
-        "Fingerprint",
-        "Iris Recognition",
-        "Face Spoof Detection",
-        "Multimodal Biometrics",
-        "Feature Extraction",
-        "Template Protection"
+        "Planning Systems",
+        "Heuristic Search",
+        "Case-Based Reasoning",
+        "Temporal Planning",
+        "Knowledge-Based Systems",
+        "Robot Control",
+        "Model-Based Programming",
+        "Probabilistic Plan Recognition",
+        "Cognitive Architecture",
+        "Autonomous Systems"
       ],
-      "works_count": 50857
-    },
-    {
-      "topic_id": "https://openalex.org/T10803",
-      "display_name": "Innovative Human-Technology Interaction",
-      "subfield": "Human-Computer Interaction",
-      "subfield_id": "https://openalex.org/subfields/1709",
-      "field": "Computer Science",
-      "keywords": [
-        "User Experience",
-        "Design Research",
-        "Interaction Design",
-        "Persuasive Technology",
-        "Quantified Self",
-        "Participatory Design",
-        "Aesthetics",
-        "Emotional Design",
-        "Health Behavior Change",
-        "Wearable Technology"
-      ],
-      "works_count": 50729
+      "works_count": 53467
     },
     {
       "topic_id": "https://openalex.org/T13836",
@@ -2233,7 +2173,67 @@
         "Data Access Control",
         "CCTV Security"
       ],
-      "works_count": 50611
+      "works_count": 53172
+    },
+    {
+      "topic_id": "https://openalex.org/T11063",
+      "display_name": "Rough Sets and Fuzzy Logic",
+      "subfield": "Computational Theory and Mathematics",
+      "subfield_id": "https://openalex.org/subfields/1703",
+      "field": "Computer Science",
+      "keywords": [
+        "Rough Sets",
+        "Granular Computing",
+        "Feature Selection",
+        "Decision Analysis",
+        "Information Granulation",
+        "Fuzzy Rough Sets",
+        "Concept Lattices",
+        "Knowledge Reduction",
+        "Three-Way Decisions",
+        "Probabilistic Rough Sets"
+      ],
+      "works_count": 53133
+    },
+    {
+      "topic_id": "https://openalex.org/T10803",
+      "display_name": "Innovative Human-Technology Interaction",
+      "subfield": "Human-Computer Interaction",
+      "subfield_id": "https://openalex.org/subfields/1709",
+      "field": "Computer Science",
+      "keywords": [
+        "User Experience",
+        "Design Research",
+        "Interaction Design",
+        "Persuasive Technology",
+        "Quantified Self",
+        "Participatory Design",
+        "Aesthetics",
+        "Emotional Design",
+        "Health Behavior Change",
+        "Wearable Technology"
+      ],
+      "works_count": 51575
+    },
+    {
+      "topic_id": "https://openalex.org/T10828",
+      "display_name": "Biometric Identification and Security",
+      "subfield": "Signal Processing",
+      "subfield_id": "https://openalex.org/subfields/1711",
+      "field": "Computer Science",
+      "keywords": [
+        "Biometric Recognition",
+        "Security",
+        "Privacy",
+        "Authentication",
+        "Fingerprint",
+        "Iris Recognition",
+        "Face Spoof Detection",
+        "Multimodal Biometrics",
+        "Feature Extraction",
+        "Template Protection"
+      ],
+      "works_count": 51324
     },
     {
       "topic_id": "https://openalex.org/T11574",
@@ -2253,7 +2253,7 @@
         "Level Generation",
         "Computer Go"
       ],
-      "works_count": 50515
+      "works_count": 51247
     },
     {
       "topic_id": "https://openalex.org/T11398",
@@ -2273,7 +2273,7 @@
         "Deep Learning",
         "Continuous Recognition"
       ],
-      "works_count": 50110
+      "works_count": 50783
     },
     {
       "topic_id": "https://openalex.org/T10933",
@@ -2293,7 +2293,7 @@
         "Feedback Control",
         "RTOS"
       ],
-      "works_count": 49807
+      "works_count": 50267
     },
     {
       "topic_id": "https://openalex.org/T10742",
@@ -2313,7 +2313,7 @@
         "File Sharing",
         "Internet Applications"
       ],
-      "works_count": 49713
+      "works_count": 49932
     },
     {
       "topic_id": "https://openalex.org/T10812",
@@ -2333,7 +2333,7 @@
         "Human Activity Analysis",
         "Temporal Convolutional Networks"
       ],
-      "works_count": 48908
+      "works_count": 49652
     },
     {
       "topic_id": "https://openalex.org/T13924",
@@ -2353,107 +2353,7 @@
         "Indoor Air Quality Monitoring",
         "Data Analysis"
       ],
-      "works_count": 48375
-    },
-    {
-      "topic_id": "https://openalex.org/T11439",
-      "display_name": "Video Analysis and Summarization",
-      "subfield": "Computer Vision and Pattern Recognition",
-      "subfield_id": "https://openalex.org/subfields/1707",
-      "field": "Computer Science",
-      "keywords": [
-        "Video Summarization",
-        "Content-Based Retrieval",
-        "Shot Boundary Detection",
-        "User Attention Model",
-        "MPEG-7 Standard",
-        "Semantic Analysis",
-        "Key Frame Extraction",
-        "Event Detection",
-        "Soccer Video",
-        "Multimodal Indexing"
-      ],
-      "works_count": 48153
-    },
-    {
-      "topic_id": "https://openalex.org/T13155",
-      "display_name": "Digital Communication and Language",
-      "subfield": "Human-Computer Interaction",
-      "subfield_id": "https://openalex.org/subfields/1709",
-      "field": "Computer Science",
-      "keywords": [
-        "Emoticons",
-        "Computer-Mediated Communication",
-        "Social Interaction",
-        "Text Messaging",
-        "Language Variation",
-        "Digital Communication",
-        "Emoji Usage",
-        "Literacy Skills",
-        "Gender Differences",
-        "Online Communication"
-      ],
-      "works_count": 47942
-    },
-    {
-      "topic_id": "https://openalex.org/T10789",
-      "display_name": "Interactive and Immersive Displays",
-      "subfield": "Human-Computer Interaction",
-      "subfield_id": "https://openalex.org/subfields/1709",
-      "field": "Computer Science",
-      "keywords": [
-        "Tangible User Interfaces",
-        "Interaction Techniques",
-        "Gesture Recognition",
-        "Multi-touch Sensing",
-        "Public Displays",
-        "Mobile Interaction",
-        "User-defined Gestures",
-        "Surface Computing",
-        "Tabletop Displays",
-        "Virtual Environments"
-      ],
-      "works_count": 47616
-    },
-    {
-      "topic_id": "https://openalex.org/T10470",
-      "display_name": "Usability and User Interface Design",
-      "subfield": "Human-Computer Interaction",
-      "subfield_id": "https://openalex.org/subfields/1709",
-      "field": "Computer Science",
-      "keywords": [
-        "Usability",
-        "Human-Computer Interaction",
-        "User-Centered Design",
-        "Mobile Applications",
-        "Cultural Adaptation",
-        "Collaborative Work",
-        "User Involvement",
-        "Heuristic Evaluation",
-        "Task Analysis",
-        "Multi-Device Interfaces"
-      ],
-      "works_count": 47417
-    },
-    {
-      "topic_id": "https://openalex.org/T11596",
-      "display_name": "Constraint Satisfaction and Optimization",
-      "subfield": "Computer Networks and Communications",
-      "subfield_id": "https://openalex.org/subfields/1705",
-      "field": "Computer Science",
-      "keywords": [
-        "Constraint Optimization",
-        "Distributed Algorithms",
-        "Random Satisfiability",
-        "Local Search",
-        "Spatial Reasoning",
-        "Algorithm Selection",
-        "Phase Transitions",
-        "Soft Constraints",
-        "Temporal Reasoning",
-        "Graph Coloring"
-      ],
-      "works_count": 47276
+      "works_count": 49002
     },
     {
       "topic_id": "https://openalex.org/T12026",
@@ -2473,7 +2373,107 @@
         "Black Box Models",
         "Responsibility in AI"
       ],
-      "works_count": 46398
+      "works_count": 48739
+    },
+    {
+      "topic_id": "https://openalex.org/T11439",
+      "display_name": "Video Analysis and Summarization",
+      "subfield": "Computer Vision and Pattern Recognition",
+      "subfield_id": "https://openalex.org/subfields/1707",
+      "field": "Computer Science",
+      "keywords": [
+        "Video Summarization",
+        "Content-Based Retrieval",
+        "Shot Boundary Detection",
+        "User Attention Model",
+        "MPEG-7 Standard",
+        "Semantic Analysis",
+        "Key Frame Extraction",
+        "Event Detection",
+        "Soccer Video",
+        "Multimodal Indexing"
+      ],
+      "works_count": 48612
+    },
+    {
+      "topic_id": "https://openalex.org/T10789",
+      "display_name": "Interactive and Immersive Displays",
+      "subfield": "Human-Computer Interaction",
+      "subfield_id": "https://openalex.org/subfields/1709",
+      "field": "Computer Science",
+      "keywords": [
+        "Tangible User Interfaces",
+        "Interaction Techniques",
+        "Gesture Recognition",
+        "Multi-touch Sensing",
+        "Public Displays",
+        "Mobile Interaction",
+        "User-defined Gestures",
+        "Surface Computing",
+        "Tabletop Displays",
+        "Virtual Environments"
+      ],
+      "works_count": 48366
+    },
+    {
+      "topic_id": "https://openalex.org/T13155",
+      "display_name": "Digital Communication and Language",
+      "subfield": "Human-Computer Interaction",
+      "subfield_id": "https://openalex.org/subfields/1709",
+      "field": "Computer Science",
+      "keywords": [
+        "Emoticons",
+        "Computer-Mediated Communication",
+        "Social Interaction",
+        "Text Messaging",
+        "Language Variation",
+        "Digital Communication",
+        "Emoji Usage",
+        "Literacy Skills",
+        "Gender Differences",
+        "Online Communication"
+      ],
+      "works_count": 48360
+    },
+    {
+      "topic_id": "https://openalex.org/T11596",
+      "display_name": "Constraint Satisfaction and Optimization",
+      "subfield": "Computer Networks and Communications",
+      "subfield_id": "https://openalex.org/subfields/1705",
+      "field": "Computer Science",
+      "keywords": [
+        "Constraint Optimization",
+        "Distributed Algorithms",
+        "Random Satisfiability",
+        "Local Search",
+        "Spatial Reasoning",
+        "Algorithm Selection",
+        "Phase Transitions",
+        "Soft Constraints",
+        "Temporal Reasoning",
+        "Graph Coloring"
+      ],
+      "works_count": 48107
+    },
+    {
+      "topic_id": "https://openalex.org/T10470",
+      "display_name": "Usability and User Interface Design",
+      "subfield": "Human-Computer Interaction",
+      "subfield_id": "https://openalex.org/subfields/1709",
+      "field": "Computer Science",
+      "keywords": [
+        "Usability",
+        "Human-Computer Interaction",
+        "User-Centered Design",
+        "Mobile Applications",
+        "Cultural Adaptation",
+        "Collaborative Work",
+        "User Involvement",
+        "Heuristic Evaluation",
+        "Task Analysis",
+        "Multi-Device Interfaces"
+      ],
+      "works_count": 47940
     },
     {
       "topic_id": "https://openalex.org/T12205",
@@ -2493,7 +2493,7 @@
         "Dimensionality Reduction",
         "Pattern Discovery"
       ],
-      "works_count": 46200
+      "works_count": 46705
     },
     {
       "topic_id": "https://openalex.org/T14064",
@@ -2513,47 +2513,7 @@
         "Social Media Marketing",
         "Knowledge Management"
       ],
-      "works_count": 45757
-    },
-    {
-      "topic_id": "https://openalex.org/T10741",
-      "display_name": "Video Coding and Compression Technologies",
-      "subfield": "Signal Processing",
-      "subfield_id": "https://openalex.org/subfields/1711",
-      "field": "Computer Science",
-      "keywords": [
-        "Video Coding",
-        "H.264/AVC",
-        "High Efficiency Video Coding (HEVC)",
-        "Scalable Video Coding",
-        "Motion Estimation",
-        "Rate-Distortion Analysis",
-        "Depth Image-Based Rendering",
-        "3D-TV",
-        "Error Resilience",
-        "Transform Coding"
-      ],
-      "works_count": 45020
-    },
-    {
-      "topic_id": "https://openalex.org/T12260",
-      "display_name": "Educational Technology and Pedagogy",
-      "subfield": "Artificial Intelligence",
-      "subfield_id": "https://openalex.org/subfields/1702",
-      "field": "Computer Science",
-      "keywords": [
-        "Artificial Intelligence",
-        "Teaching Evaluation",
-        "Online Education",
-        "Deep Learning",
-        "Multimedia Teaching",
-        "Internet of Things",
-        "Data Mining",
-        "Machine Learning",
-        "Physical Education",
-        "Cloud Computing"
-      ],
-      "works_count": 45019
+      "works_count": 46282
     },
     {
       "topic_id": "https://openalex.org/T11307",
@@ -2573,7 +2533,7 @@
         "Semi-Supervised Learning",
         "Clustering Analysis"
       ],
-      "works_count": 44947
+      "works_count": 45947
     },
     {
       "topic_id": "https://openalex.org/T10951",
@@ -2593,27 +2553,47 @@
         "Fault Attacks",
         "Authenticated Encryption"
       ],
-      "works_count": 44824
+      "works_count": 45413
     },
     {
-      "topic_id": "https://openalex.org/T13083",
-      "display_name": "Advanced Text Analysis Techniques",
+      "topic_id": "https://openalex.org/T12260",
+      "display_name": "Educational Technology and Pedagogy",
       "subfield": "Artificial Intelligence",
       "subfield_id": "https://openalex.org/subfields/1702",
       "field": "Computer Science",
       "keywords": [
-        "Automatic",
-        "Extraction",
-        "Textual Data",
-        "Keyword",
-        "Linguistic Knowledge",
-        "Graph-Based",
-        "Unsupervised Approach",
-        "Neural Networks",
-        "Statistical Information",
-        "Document"
+        "Artificial Intelligence",
+        "Teaching Evaluation",
+        "Online Education",
+        "Deep Learning",
+        "Multimedia Teaching",
+        "Internet of Things",
+        "Data Mining",
+        "Machine Learning",
+        "Physical Education",
+        "Cloud Computing"
       ],
-      "works_count": 44329
+      "works_count": 45385
+    },
+    {
+      "topic_id": "https://openalex.org/T10741",
+      "display_name": "Video Coding and Compression Technologies",
+      "subfield": "Signal Processing",
+      "subfield_id": "https://openalex.org/subfields/1711",
+      "field": "Computer Science",
+      "keywords": [
+        "Video Coding",
+        "H.264/AVC",
+        "High Efficiency Video Coding (HEVC)",
+        "Scalable Video Coding",
+        "Motion Estimation",
+        "Rate-Distortion Analysis",
+        "Depth Image-Based Rendering",
+        "3D-TV",
+        "Error Resilience",
+        "Transform Coding"
+      ],
+      "works_count": 45302
     },
     {
       "topic_id": "https://openalex.org/T11019",
@@ -2633,7 +2613,27 @@
         "Color Transfer",
         "High Dynamic Range"
       ],
-      "works_count": 44022
+      "works_count": 44730
+    },
+    {
+      "topic_id": "https://openalex.org/T13083",
+      "display_name": "Advanced Text Analysis Techniques",
+      "subfield": "Artificial Intelligence",
+      "subfield_id": "https://openalex.org/subfields/1702",
+      "field": "Computer Science",
+      "keywords": [
+        "Automatic",
+        "Extraction",
+        "Textual Data",
+        "Keyword",
+        "Linguistic Knowledge",
+        "Graph-Based",
+        "Unsupervised Approach",
+        "Neural Networks",
+        "Statistical Information",
+        "Document"
+      ],
+      "works_count": 44619
     },
     {
       "topic_id": "https://openalex.org/T10848",
@@ -2653,47 +2653,7 @@
         "Hypervolume Indicator",
         "Engineering Design"
       ],
-      "works_count": 43495
-    },
-    {
-      "topic_id": "https://openalex.org/T11478",
-      "display_name": "Caching and Content Delivery",
-      "subfield": "Computer Networks and Communications",
-      "subfield_id": "https://openalex.org/subfields/1705",
-      "field": "Computer Science",
-      "keywords": [
-        "Caching",
-        "Information-Centric Networking",
-        "Wireless Networks",
-        "Content Delivery",
-        "Named Data Networking",
-        "Cache-Enabled Networks",
-        "Edge Caching",
-        "Content Distribution",
-        "Mobile Networks",
-        "Network Architecture"
-      ],
-      "works_count": 43396
-    },
-    {
-      "topic_id": "https://openalex.org/T12262",
-      "display_name": "Hate Speech and Cyberbullying Detection",
-      "subfield": "Artificial Intelligence",
-      "subfield_id": "https://openalex.org/subfields/1702",
-      "field": "Computer Science",
-      "keywords": [
-        "Hate Speech",
-        "Detection",
-        "Social Media",
-        "Cyberbullying",
-        "Offensive Language",
-        "Machine Learning",
-        "Natural Language Processing",
-        "Online Harassment",
-        "Twitter",
-        "Deep Learning"
-      ],
-      "works_count": 43318
+      "works_count": 44048
     },
     {
       "topic_id": "https://openalex.org/T11707",
@@ -2713,7 +2673,47 @@
         "Head Gesture Recognition",
         "Virtual Reality"
       ],
-      "works_count": 43171
+      "works_count": 43957
+    },
+    {
+      "topic_id": "https://openalex.org/T12262",
+      "display_name": "Hate Speech and Cyberbullying Detection",
+      "subfield": "Artificial Intelligence",
+      "subfield_id": "https://openalex.org/subfields/1702",
+      "field": "Computer Science",
+      "keywords": [
+        "Hate Speech",
+        "Detection",
+        "Social Media",
+        "Cyberbullying",
+        "Offensive Language",
+        "Machine Learning",
+        "Natural Language Processing",
+        "Online Harassment",
+        "Twitter",
+        "Deep Learning"
+      ],
+      "works_count": 43865
+    },
+    {
+      "topic_id": "https://openalex.org/T11478",
+      "display_name": "Caching and Content Delivery",
+      "subfield": "Computer Networks and Communications",
+      "subfield_id": "https://openalex.org/subfields/1705",
+      "field": "Computer Science",
+      "keywords": [
+        "Caching",
+        "Information-Centric Networking",
+        "Wireless Networks",
+        "Content Delivery",
+        "Named Data Networking",
+        "Cache-Enabled Networks",
+        "Edge Caching",
+        "Content Distribution",
+        "Mobile Networks",
+        "Network Architecture"
+      ],
+      "works_count": 43668
     },
     {
       "topic_id": "https://openalex.org/T12162",
@@ -2733,47 +2733,7 @@
         "Image Processing",
         "Universality"
       ],
-      "works_count": 42657
-    },
-    {
-      "topic_id": "https://openalex.org/T11697",
-      "display_name": "Numerical Methods and Algorithms",
-      "subfield": "Computational Theory and Mathematics",
-      "subfield_id": "https://openalex.org/subfields/1703",
-      "field": "Computer Science",
-      "keywords": [
-        "Floating-Point Arithmetic",
-        "Interval Analysis",
-        "High-Precision Computation",
-        "Hardware Implementation",
-        "Numerical Verification Methods",
-        "FPGA Acceleration",
-        "Decimal Floating-Point",
-        "Accuracy-Guaranteed Bit-Width Optimization",
-        "Taylor Models",
-        "Interval Uncertainty"
-      ],
-      "works_count": 40959
-    },
-    {
-      "topic_id": "https://openalex.org/T11424",
-      "display_name": "Security and Verification in Computing",
-      "subfield": "Artificial Intelligence",
-      "subfield_id": "https://openalex.org/subfields/1702",
-      "field": "Computer Science",
-      "keywords": [
-        "Security Policies",
-        "Side-Channel Attacks",
-        "Control-Flow Integrity",
-        "Memory Protection",
-        "Virtualization",
-        "Cache Attacks",
-        "Dynamic Taint Analysis",
-        "Trusted Execution Environment",
-        "Software Diversity",
-        "Hardware Security"
-      ],
-      "works_count": 40374
+      "works_count": 43046
     },
     {
       "topic_id": "https://openalex.org/T13702",
@@ -2793,27 +2753,47 @@
         "Temporal Data Analysis",
         "Precision Medicine"
       ],
-      "works_count": 40281
+      "works_count": 41568
     },
     {
-      "topic_id": "https://openalex.org/T12535",
-      "display_name": "Machine Learning and Data Classification",
+      "topic_id": "https://openalex.org/T11697",
+      "display_name": "Numerical Methods and Algorithms",
+      "subfield": "Computational Theory and Mathematics",
+      "subfield_id": "https://openalex.org/subfields/1703",
+      "field": "Computer Science",
+      "keywords": [
+        "Floating-Point Arithmetic",
+        "Interval Analysis",
+        "High-Precision Computation",
+        "Hardware Implementation",
+        "Numerical Verification Methods",
+        "FPGA Acceleration",
+        "Decimal Floating-Point",
+        "Accuracy-Guaranteed Bit-Width Optimization",
+        "Taylor Models",
+        "Interval Uncertainty"
+      ],
+      "works_count": 41364
+    },
+    {
+      "topic_id": "https://openalex.org/T11424",
+      "display_name": "Security and Verification in Computing",
       "subfield": "Artificial Intelligence",
       "subfield_id": "https://openalex.org/subfields/1702",
       "field": "Computer Science",
       "keywords": [
-        "Noisy Labels",
-        "Hyperparameter Optimization",
-        "Instance Selection",
-        "Robust Learning",
-        "Automated Machine Learning",
-        "Meta-Learning",
-        "Deep Neural Networks",
-        "Classification",
-        "Positive and Unlabeled Data",
-        "Loss Correction"
+        "Security Policies",
+        "Side-Channel Attacks",
+        "Control-Flow Integrity",
+        "Memory Protection",
+        "Virtualization",
+        "Cache Attacks",
+        "Dynamic Taint Analysis",
+        "Trusted Execution Environment",
+        "Software Diversity",
+        "Hardware Security"
       ],
-      "works_count": 39668
+      "works_count": 41240
     },
     {
       "topic_id": "https://openalex.org/T11105",
@@ -2833,7 +2813,27 @@
         "Video Enhancement",
         "Medical Imaging"
       ],
-      "works_count": 39553
+      "works_count": 40105
+    },
+    {
+      "topic_id": "https://openalex.org/T12535",
+      "display_name": "Machine Learning and Data Classification",
+      "subfield": "Artificial Intelligence",
+      "subfield_id": "https://openalex.org/subfields/1702",
+      "field": "Computer Science",
+      "keywords": [
+        "Noisy Labels",
+        "Hyperparameter Optimization",
+        "Instance Selection",
+        "Robust Learning",
+        "Automated Machine Learning",
+        "Meta-Learning",
+        "Deep Neural Networks",
+        "Classification",
+        "Positive and Unlabeled Data",
+        "Loss Correction"
+      ],
+      "works_count": 40102
     },
     {
       "topic_id": "https://openalex.org/T11598",
@@ -2853,107 +2853,7 @@
         "Traffic Analysis",
         "E-Voting"
       ],
-      "works_count": 38903
-    },
-    {
-      "topic_id": "https://openalex.org/T12805",
-      "display_name": "Cognitive Science and Mapping",
-      "subfield": "Artificial Intelligence",
-      "subfield_id": "https://openalex.org/subfields/1702",
-      "field": "Computer Science",
-      "keywords": [
-        "Fuzzy Cognitive Maps",
-        "Modeling",
-        "Decision Support",
-        "Knowledge Representation",
-        "Learning Algorithms",
-        "Scenario Development",
-        "Social-Ecological Systems",
-        "Prediction",
-        "Healthcare Decision Making",
-        "Multi-Criteria Analysis"
-      ],
-      "works_count": 38564
-    },
-    {
-      "topic_id": "https://openalex.org/T12292",
-      "display_name": "Graph Theory and Algorithms",
-      "subfield": "Computer Vision and Pattern Recognition",
-      "subfield_id": "https://openalex.org/subfields/1707",
-      "field": "Computer Science",
-      "keywords": [
-        "Graph Matching",
-        "Graph Processing",
-        "Pattern Recognition",
-        "Distributed Computing",
-        "Graph Analytics",
-        "Subgraph Isomorphism",
-        "Large-scale Graphs",
-        "Graph Database",
-        "Parallel Algorithms",
-        "Spectral Techniques"
-      ],
-      "works_count": 38296
-    },
-    {
-      "topic_id": "https://openalex.org/T11034",
-      "display_name": "Digital Filter Design and Implementation",
-      "subfield": "Signal Processing",
-      "subfield_id": "https://openalex.org/subfields/1711",
-      "field": "Computer Science",
-      "keywords": [
-        "FFT",
-        "Filter Banks",
-        "DCT",
-        "FIR Filters",
-        "Multiplierless Algorithms",
-        "Digital Audio Coding",
-        "Software Radio",
-        "Polyphase Filters",
-        "Variable Fractional Delay",
-        "Semidefinite Programming"
-      ],
-      "works_count": 38292
-    },
-    {
-      "topic_id": "https://openalex.org/T11158",
-      "display_name": "Wireless Networks and Protocols",
-      "subfield": "Computer Networks and Communications",
-      "subfield_id": "https://openalex.org/subfields/1705",
-      "field": "Computer Science",
-      "keywords": [
-        "IEEE 802.11",
-        "MAC protocol",
-        "wireless LAN",
-        "performance analysis",
-        "rate adaptation",
-        "QoS support",
-        "multi-hop networks",
-        "channel assignment",
-        "interference mitigation",
-        "coexistence"
-      ],
-      "works_count": 38134
-    },
-    {
-      "topic_id": "https://openalex.org/T14381",
-      "display_name": "Psychiatry, Mental Health, Neuroscience",
-      "subfield": "Artificial Intelligence",
-      "subfield_id": "https://openalex.org/subfields/1702",
-      "field": "Computer Science",
-      "keywords": [
-        "Neuro-Symbolic Networks",
-        "Automation",
-        "Robotics",
-        "Cognitive Architecture",
-        "Artificial General Intelligence",
-        "Perception",
-        "Decision Making",
-        "Psychoanalytic Models",
-        "Emotions",
-        "Building Automation"
-      ],
-      "works_count": 37949
+      "works_count": 39309
     },
     {
       "topic_id": "https://openalex.org/T12536",
@@ -2973,7 +2873,107 @@
         "Machine Learning",
         "Spatial Data"
       ],
-      "works_count": 37842
+      "works_count": 38753
+    },
+    {
+      "topic_id": "https://openalex.org/T12292",
+      "display_name": "Graph Theory and Algorithms",
+      "subfield": "Computer Vision and Pattern Recognition",
+      "subfield_id": "https://openalex.org/subfields/1707",
+      "field": "Computer Science",
+      "keywords": [
+        "Graph Matching",
+        "Graph Processing",
+        "Pattern Recognition",
+        "Distributed Computing",
+        "Graph Analytics",
+        "Subgraph Isomorphism",
+        "Large-scale Graphs",
+        "Graph Database",
+        "Parallel Algorithms",
+        "Spectral Techniques"
+      ],
+      "works_count": 38725
+    },
+    {
+      "topic_id": "https://openalex.org/T11034",
+      "display_name": "Digital Filter Design and Implementation",
+      "subfield": "Signal Processing",
+      "subfield_id": "https://openalex.org/subfields/1711",
+      "field": "Computer Science",
+      "keywords": [
+        "FFT",
+        "Filter Banks",
+        "DCT",
+        "FIR Filters",
+        "Multiplierless Algorithms",
+        "Digital Audio Coding",
+        "Software Radio",
+        "Polyphase Filters",
+        "Variable Fractional Delay",
+        "Semidefinite Programming"
+      ],
+      "works_count": 38703
+    },
+    {
+      "topic_id": "https://openalex.org/T12805",
+      "display_name": "Cognitive Science and Mapping",
+      "subfield": "Artificial Intelligence",
+      "subfield_id": "https://openalex.org/subfields/1702",
+      "field": "Computer Science",
+      "keywords": [
+        "Fuzzy Cognitive Maps",
+        "Modeling",
+        "Decision Support",
+        "Knowledge Representation",
+        "Learning Algorithms",
+        "Scenario Development",
+        "Social-Ecological Systems",
+        "Prediction",
+        "Healthcare Decision Making",
+        "Multi-Criteria Analysis"
+      ],
+      "works_count": 38662
+    },
+    {
+      "topic_id": "https://openalex.org/T14381",
+      "display_name": "Psychiatry, Mental Health, Neuroscience",
+      "subfield": "Artificial Intelligence",
+      "subfield_id": "https://openalex.org/subfields/1702",
+      "field": "Computer Science",
+      "keywords": [
+        "Neuro-Symbolic Networks",
+        "Automation",
+        "Robotics",
+        "Cognitive Architecture",
+        "Artificial General Intelligence",
+        "Perception",
+        "Decision Making",
+        "Psychoanalytic Models",
+        "Emotions",
+        "Building Automation"
+      ],
+      "works_count": 38475
+    },
+    {
+      "topic_id": "https://openalex.org/T11158",
+      "display_name": "Wireless Networks and Protocols",
+      "subfield": "Computer Networks and Communications",
+      "subfield_id": "https://openalex.org/subfields/1705",
+      "field": "Computer Science",
+      "keywords": [
+        "IEEE 802.11",
+        "MAC protocol",
+        "wireless LAN",
+        "performance analysis",
+        "rate adaptation",
+        "QoS support",
+        "multi-hop networks",
+        "channel assignment",
+        "interference mitigation",
+        "coexistence"
+      ],
+      "works_count": 38359
     },
     {
       "topic_id": "https://openalex.org/T10637",
@@ -2993,7 +2993,7 @@
         "Evolutionary Algorithms",
         "Stream Data Clustering"
       ],
-      "works_count": 37660
+      "works_count": 38023
     },
     {
       "topic_id": "https://openalex.org/T10720",
@@ -3013,7 +3013,7 @@
         "Linear Programming",
         "Algorithmic Applications"
       ],
-      "works_count": 37071
+      "works_count": 37747
     },
     {
       "topic_id": "https://openalex.org/T11652",
@@ -3033,7 +3033,7 @@
         "Boosting",
         "Random Forest"
       ],
-      "works_count": 36310
+      "works_count": 37005
     },
     {
       "topic_id": "https://openalex.org/T14353",
@@ -3053,7 +3053,7 @@
         "Environmental Monitoring",
         "Signal Processing"
       ],
-      "works_count": 36163
+      "works_count": 36263
     },
     {
       "topic_id": "https://openalex.org/T12423",
@@ -3073,7 +3073,7 @@
         "Sensitivity Analysis",
         "Markov Chain Models"
       ],
-      "works_count": 36059
+      "works_count": 36208
     },
     {
       "topic_id": "https://openalex.org/T10579",
@@ -3093,27 +3093,7 @@
         "Security Threats",
         "Game Theory"
       ],
-      "works_count": 35830
-    },
-    {
-      "topic_id": "https://openalex.org/T11550",
-      "display_name": "Text and Document Classification Technologies",
-      "subfield": "Artificial Intelligence",
-      "subfield_id": "https://openalex.org/subfields/1702",
-      "field": "Computer Science",
-      "keywords": [
-        "Multi-label Learning",
-        "Text Classification",
-        "Feature Selection",
-        "Naive Bayes Classifier",
-        "K-nearest Neighbor (KNN)",
-        "Hierarchical Classification",
-        "Machine Learning Algorithms",
-        "Document Categorization",
-        "Support Vector Machines (SVM)",
-        "Information Retrieval"
-      ],
-      "works_count": 35232
+      "works_count": 36080
     },
     {
       "topic_id": "https://openalex.org/T12072",
@@ -3133,7 +3113,27 @@
         "Statistical Guarantees",
         "Human-in-the-loop"
       ],
-      "works_count": 35224
+      "works_count": 35634
+    },
+    {
+      "topic_id": "https://openalex.org/T11550",
+      "display_name": "Text and Document Classification Technologies",
+      "subfield": "Artificial Intelligence",
+      "subfield_id": "https://openalex.org/subfields/1702",
+      "field": "Computer Science",
+      "keywords": [
+        "Multi-label Learning",
+        "Text Classification",
+        "Feature Selection",
+        "Naive Bayes Classifier",
+        "K-nearest Neighbor (KNN)",
+        "Hierarchical Classification",
+        "Machine Learning Algorithms",
+        "Document Categorization",
+        "Support Vector Machines (SVM)",
+        "Information Retrieval"
+      ],
+      "works_count": 35598
     },
     {
       "topic_id": "https://openalex.org/T11125",
@@ -3153,7 +3153,7 @@
         "Formal Methods",
         "Stochastic Petri Nets"
       ],
-      "works_count": 34724
+      "works_count": 34963
     },
     {
       "topic_id": "https://openalex.org/T12611",
@@ -3173,7 +3173,7 @@
         "Diffractive Optical Neural Networks",
         "Neural Network Training"
       ],
-      "works_count": 33463
+      "works_count": 34438
     },
     {
       "topic_id": "https://openalex.org/T13851",
@@ -3193,7 +3193,7 @@
         "Ethical Issues",
         "Innovation Policy"
       ],
-      "works_count": 33004
+      "works_count": 33425
     },
     {
       "topic_id": "https://openalex.org/T11165",
@@ -3213,7 +3213,7 @@
         "Quality of Experience",
         "Stereoscopic Images"
       ],
-      "works_count": 32130
+      "works_count": 32433
     },
     {
       "topic_id": "https://openalex.org/T12874",
@@ -3233,7 +3233,7 @@
         "Feature Extraction",
         "Medical Image Analysis"
       ],
-      "works_count": 31629
+      "works_count": 31744
     },
     {
       "topic_id": "https://openalex.org/T11896",
@@ -3253,7 +3253,7 @@
         "Disruption-Tolerant Networks",
         "Community-Based Routing"
       ],
-      "works_count": 30841
+      "works_count": 31063
     },
     {
       "topic_id": "https://openalex.org/T12288",
@@ -3273,7 +3273,7 @@
         "Rendezvous Search",
         "Buffer Management"
       ],
-      "works_count": 30446
+      "works_count": 30736
     },
     {
       "topic_id": "https://openalex.org/T11321",
@@ -3293,7 +3293,7 @@
         "Stochastic Computing",
         "Error Correction"
       ],
-      "works_count": 28970
+      "works_count": 29386
     },
     {
       "topic_id": "https://openalex.org/T12549",
@@ -3313,7 +3313,7 @@
         "Real-time Detection",
         "Statistical Optimization"
       ],
-      "works_count": 28771
+      "works_count": 28936
     },
     {
       "topic_id": "https://openalex.org/T11347",
@@ -3333,7 +3333,7 @@
         "Stochasticity",
         "Memristor-based Networks"
       ],
-      "works_count": 28276
+      "works_count": 28491
     },
     {
       "topic_id": "https://openalex.org/T13898",
@@ -3353,47 +3353,7 @@
         "Complex Analysis",
         "Social Institutions"
       ],
-      "works_count": 28184
-    },
-    {
-      "topic_id": "https://openalex.org/T14351",
-      "display_name": "Statistical and Computational Modeling",
-      "subfield": "Artificial Intelligence",
-      "subfield_id": "https://openalex.org/subfields/1702",
-      "field": "Computer Science",
-      "keywords": [
-        "Inductive Modeling",
-        "GMDH-type Neural Networks",
-        "Interval Models",
-        "Environmental Monitoring",
-        "Artificial Bee Colony Algorithm",
-        "Machine Learning",
-        "Data Mining",
-        "Modeling and Prediction",
-        "Self-Organization Techniques",
-        "Sustainable Development"
-      ],
-      "works_count": 26788
-    },
-    {
-      "topic_id": "https://openalex.org/T12541",
-      "display_name": "Graph Labeling and Dimension Problems",
-      "subfield": "Computational Theory and Mathematics",
-      "subfield_id": "https://openalex.org/subfields/1703",
-      "field": "Computer Science",
-      "keywords": [
-        "Graph Labeling",
-        "Metric Dimension",
-        "Resolvability",
-        "Edge Coloring",
-        "Distinguishing Number",
-        "Irregularity Strength",
-        "Total Edge Irregularity",
-        "Neighbor Sum Distinguishing",
-        "Antimagic Labeling",
-        "Computational Complexity"
-      ],
-      "works_count": 26489
+      "works_count": 28273
     },
     {
       "topic_id": "https://openalex.org/T12380",
@@ -3413,47 +3373,27 @@
         "Forensic Linguistics",
         "Author Identification"
       ],
-      "works_count": 26487
+      "works_count": 26990
     },
     {
-      "topic_id": "https://openalex.org/T11605",
-      "display_name": "Visual Attention and Saliency Detection",
-      "subfield": "Computer Vision and Pattern Recognition",
-      "subfield_id": "https://openalex.org/subfields/1707",
+      "topic_id": "https://openalex.org/T14351",
+      "display_name": "Statistical and Computational Modeling",
+      "subfield": "Artificial Intelligence",
+      "subfield_id": "https://openalex.org/subfields/1702",
       "field": "Computer Science",
       "keywords": [
-        "Saliency Detection",
-        "Visual Attention",
-        "Salient Object Detection",
-        "Deep Learning",
-        "Eye Movements",
-        "Image Segmentation",
-        "Video Object Segmentation",
-        "Neural Networks",
-        "Bottom-Up Attention",
-        "Top-Down Attention"
+        "Inductive Modeling",
+        "GMDH-type Neural Networks",
+        "Interval Models",
+        "Environmental Monitoring",
+        "Artificial Bee Colony Algorithm",
+        "Machine Learning",
+        "Data Mining",
+        "Modeling and Prediction",
+        "Self-Organization Techniques",
+        "Sustainable Development"
       ],
-      "works_count": 26276
-    },
-    {
-      "topic_id": "https://openalex.org/T12923",
-      "display_name": "Digital Image Processing Techniques",
-      "subfield": "Computer Vision and Pattern Recognition",
-      "subfield_id": "https://openalex.org/subfields/1707",
-      "field": "Computer Science",
-      "keywords": [
-        "Connected Components",
-        "Labeling",
-        "Digital Tomography",
-        "Topology",
-        "Algorithms",
-        "Curvature Estimation",
-        "Discrete Geometry",
-        "Binary Images",
-        "Hexagonal Lattice",
-        "GPU Implementation"
-      ],
-      "works_count": 26253
+      "works_count": 26810
     },
     {
       "topic_id": "https://openalex.org/T11612",
@@ -3473,7 +3413,67 @@
         "Coordinate Descent",
         "Generalization"
       ],
-      "works_count": 25815
+      "works_count": 26745
+    },
+    {
+      "topic_id": "https://openalex.org/T12541",
+      "display_name": "Graph Labeling and Dimension Problems",
+      "subfield": "Computational Theory and Mathematics",
+      "subfield_id": "https://openalex.org/subfields/1703",
+      "field": "Computer Science",
+      "keywords": [
+        "Graph Labeling",
+        "Metric Dimension",
+        "Resolvability",
+        "Edge Coloring",
+        "Distinguishing Number",
+        "Irregularity Strength",
+        "Total Edge Irregularity",
+        "Neighbor Sum Distinguishing",
+        "Antimagic Labeling",
+        "Computational Complexity"
+      ],
+      "works_count": 26691
+    },
+    {
+      "topic_id": "https://openalex.org/T11605",
+      "display_name": "Visual Attention and Saliency Detection",
+      "subfield": "Computer Vision and Pattern Recognition",
+      "subfield_id": "https://openalex.org/subfields/1707",
+      "field": "Computer Science",
+      "keywords": [
+        "Saliency Detection",
+        "Visual Attention",
+        "Salient Object Detection",
+        "Deep Learning",
+        "Eye Movements",
+        "Image Segmentation",
+        "Video Object Segmentation",
+        "Neural Networks",
+        "Bottom-Up Attention",
+        "Top-Down Attention"
+      ],
+      "works_count": 26567
+    },
+    {
+      "topic_id": "https://openalex.org/T12923",
+      "display_name": "Digital Image Processing Techniques",
+      "subfield": "Computer Vision and Pattern Recognition",
+      "subfield_id": "https://openalex.org/subfields/1707",
+      "field": "Computer Science",
+      "keywords": [
+        "Connected Components",
+        "Labeling",
+        "Digital Tomography",
+        "Topology",
+        "Algorithms",
+        "Curvature Estimation",
+        "Discrete Geometry",
+        "Binary Images",
+        "Hexagonal Lattice",
+        "GPU Implementation"
+      ],
+      "works_count": 26502
     },
     {
       "topic_id": "https://openalex.org/T12469",
@@ -3493,7 +3493,7 @@
         "Philosophy",
         "Social Systems"
       ],
-      "works_count": 24880
+      "works_count": 25849
     },
     {
       "topic_id": "https://openalex.org/T12216",
@@ -3513,7 +3513,7 @@
         "Networked Measurement Systems",
         "Consensus-Based Protocols"
       ],
-      "works_count": 24545
+      "works_count": 24811
     },
     {
       "topic_id": "https://openalex.org/T13286",
@@ -3533,7 +3533,7 @@
         "Real-Time Systems",
         "Mechatronic Systems"
       ],
-      "works_count": 24508
+      "works_count": 24733
     },
     {
       "topic_id": "https://openalex.org/T12357",
@@ -3553,7 +3553,7 @@
         "Tampering Localization",
         "Resampling Detection"
       ],
-      "works_count": 23886
+      "works_count": 24258
     },
     {
       "topic_id": "https://openalex.org/T10931",
@@ -3573,7 +3573,7 @@
         "Sparse Bayesian Learning",
         "Sensor Arrays"
       ],
-      "works_count": 23790
+      "works_count": 24113
     },
     {
       "topic_id": "https://openalex.org/T11498",
@@ -3593,7 +3593,7 @@
         "Trust Management",
         "Intrusion Detection"
       ],
-      "works_count": 23644
+      "works_count": 23858
     },
     {
       "topic_id": "https://openalex.org/T12814",
@@ -3613,7 +3613,7 @@
         "Time Series Modelling",
         "Big Data"
       ],
-      "works_count": 23441
+      "works_count": 23800
     },
     {
       "topic_id": "https://openalex.org/T11504",
@@ -3633,7 +3633,7 @@
         "Remote User Authentication",
         "Formal Analysis"
       ],
-      "works_count": 23380
+      "works_count": 23604
     },
     {
       "topic_id": "https://openalex.org/T13983",
@@ -3653,7 +3653,7 @@
         "Big Data Centers",
         "Information Risks"
       ],
-      "works_count": 22478
+      "works_count": 22760
     },
     {
       "topic_id": "https://openalex.org/T13904",
@@ -3673,7 +3673,7 @@
         "Internet of Things",
         "Robotics"
       ],
-      "works_count": 22129
+      "works_count": 22565
     },
     {
       "topic_id": "https://openalex.org/T12122",
@@ -3693,7 +3693,7 @@
         "Machine Learning Attacks",
         "Obfuscation Techniques"
       ],
-      "works_count": 21486
+      "works_count": 21811
     },
     {
       "topic_id": "https://openalex.org/T12809",
@@ -3713,7 +3713,7 @@
         "Penalty Method",
         "Numerical Analysis"
       ],
-      "works_count": 21056
+      "works_count": 21328
     },
     {
       "topic_id": "https://openalex.org/T12326",
@@ -3733,7 +3733,7 @@
         "Pattern Matching",
         "High-Speed Networks"
       ],
-      "works_count": 20546
+      "works_count": 20717
     },
     {
       "topic_id": "https://openalex.org/T12761",
@@ -3753,7 +3753,7 @@
         "Incremental Learning",
         "Ensemble Classifiers"
       ],
-      "works_count": 20148
+      "works_count": 20354
     },
     {
       "topic_id": "https://openalex.org/T13629",
@@ -3773,7 +3773,7 @@
         "Complex Word Identification",
         "Semantic Simplification"
       ],
-      "works_count": 20030
+      "works_count": 20201
     },
     {
       "topic_id": "https://openalex.org/T13748",
@@ -3793,27 +3793,7 @@
         "Statistical Package ROPstat",
         "Configural Frequency Analysis"
       ],
-      "works_count": 19841
-    },
-    {
-      "topic_id": "https://openalex.org/T14319",
-      "display_name": "Currency Recognition and Detection",
-      "subfield": "Computer Vision and Pattern Recognition",
-      "subfield_id": "https://openalex.org/subfields/1707",
-      "field": "Computer Science",
-      "keywords": [
-        "Currency Recognition",
-        "Banknote Recognition",
-        "Coin Classification",
-        "Image Processing",
-        "Deep Learning",
-        "Neural Network",
-        "Counterfeit Detection",
-        "Visually Impaired",
-        "Feature Extraction",
-        "Pattern Recognition"
-      ],
-      "works_count": 18880
+      "works_count": 20008
     },
     {
       "topic_id": "https://openalex.org/T12131",
@@ -3833,7 +3813,27 @@
         "Massive MIMO",
         "Spectrum Monitoring"
       ],
-      "works_count": 18663
+      "works_count": 19118
+    },
+    {
+      "topic_id": "https://openalex.org/T14319",
+      "display_name": "Currency Recognition and Detection",
+      "subfield": "Computer Vision and Pattern Recognition",
+      "subfield_id": "https://openalex.org/subfields/1707",
+      "field": "Computer Science",
+      "keywords": [
+        "Currency Recognition",
+        "Banknote Recognition",
+        "Coin Classification",
+        "Image Processing",
+        "Deep Learning",
+        "Neural Network",
+        "Counterfeit Detection",
+        "Visually Impaired",
+        "Feature Extraction",
+        "Pattern Recognition"
+      ],
+      "works_count": 18966
     },
     {
       "topic_id": "https://openalex.org/T13062",
@@ -3853,7 +3853,7 @@
         "Knowledge Representation",
         "Cyber-Physical Society"
       ],
-      "works_count": 18103
+      "works_count": 18399
     },
     {
       "topic_id": "https://openalex.org/T13197",
@@ -3873,7 +3873,7 @@
         "IoT Development",
         "Spreadsheets"
       ],
-      "works_count": 17925
+      "works_count": 18062
     },
     {
       "topic_id": "https://openalex.org/T12879",
@@ -3893,7 +3893,7 @@
         "Cooperative Routing",
         "Sparsity-Aware Selection"
       ],
-      "works_count": 17007
+      "works_count": 17203
     },
     {
       "topic_id": "https://openalex.org/T12676",
@@ -3913,7 +3913,7 @@
         "Ensemble Learning",
         "Kernel Methods"
       ],
-      "works_count": 16720
+      "works_count": 16822
     },
     {
       "topic_id": "https://openalex.org/T14074",
@@ -3933,7 +3933,7 @@
         "Customer Segmentation",
         "Ethnography"
       ],
-      "works_count": 16183
+      "works_count": 16559
     },
     {
       "topic_id": "https://openalex.org/T13935",
@@ -3953,7 +3953,7 @@
         "Safety-Critical Systems",
         "Machine Learning"
       ],
-      "works_count": 15822
+      "works_count": 15904
     },
     {
       "topic_id": "https://openalex.org/T14413",
@@ -3973,7 +3973,7 @@
         "Endoscope Imaging",
         "Spatial Statistics"
       ],
-      "works_count": 14938
+      "works_count": 15468
     },
     {
       "topic_id": "https://openalex.org/T14067",
@@ -3993,7 +3993,7 @@
         "QoE (Quality of Experience)",
         "Network Conditions"
       ],
-      "works_count": 13291
+      "works_count": 13456
     },
     {
       "topic_id": "https://openalex.org/T13182",
@@ -4013,7 +4013,7 @@
         "Power Dissipation Analysis",
         "Reversible Logic"
       ],
-      "works_count": 11547
+      "works_count": 11634
     },
     {
       "topic_id": "https://openalex.org/T12794",
@@ -4033,7 +4033,7 @@
         "$H_{infty}$ Control",
         "Online Learning"
       ],
-      "works_count": 10815
+      "works_count": 11065
     },
     {
       "topic_id": "https://openalex.org/T14175",
@@ -4053,7 +4053,7 @@
         "Multi-Agent System",
         "Educational Technology"
       ],
-      "works_count": 9935
+      "works_count": 10110
     },
     {
       "topic_id": "https://openalex.org/T13579",
@@ -4073,7 +4073,7 @@
         "Global Motion",
         "Camera Path"
       ],
-      "works_count": 8341
+      "works_count": 8388
     },
     {
       "topic_id": "https://openalex.org/T14455",
@@ -4093,7 +4093,7 @@
         "HIPAA Privacy Rule",
         "Blockchain Technology"
       ],
-      "works_count": 7908
+      "works_count": 8017
     },
     {
       "topic_id": "https://openalex.org/T13553",
@@ -4113,7 +4113,7 @@
         "Packet Management",
         "Networked Control Systems"
       ],
-      "works_count": 7480
+      "works_count": 7588
     },
     {
       "topic_id": "https://openalex.org/T13345",
@@ -4133,7 +4133,7 @@
         "Healthcare Monitoring",
         "Data Analytics"
       ],
-      "works_count": 5422
+      "works_count": 5503
     },
     {
       "topic_id": "https://openalex.org/T13693",
@@ -4153,7 +4153,7 @@
         "Energy Efficiency",
         "Social Awareness"
       ],
-      "works_count": 5006
+      "works_count": 5009
     },
     {
       "topic_id": "https://openalex.org/T13567",
@@ -4173,7 +4173,7 @@
         "Data Mining",
         "Parallel Computing"
       ],
-      "works_count": 4464
+      "works_count": 4571
     },
     {
       "topic_id": "https://openalex.org/T13514",
@@ -4193,7 +4193,7 @@
         "Semantic-based Academic Social Network",
         "Environmental Management"
       ],
-      "works_count": 2789
+      "works_count": 2802
     },
     {
       "topic_id": "https://openalex.org/T14098",
@@ -4213,7 +4213,7 @@
         "Cluster of Servers",
         "IoT"
       ],
-      "works_count": 2565
+      "works_count": 2645
     }
   ]
 }
